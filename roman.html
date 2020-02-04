@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href = "Resources/Styles/style.css" type = "text/css">
+    <!--Google font for Gelasio for Logo-->
+    <link href="https://fonts.googleapis.com/css?family=Gelasio&display=swap" rel="stylesheet">
+    <!--Font Awesome-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--Browser Tab Favicon-->
+    <link rel="icon" href="Resources/Images/favicon.png">
+    <!--Standard bootstrap setup-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <title>Hermannsdenkmal</title>
+</head>
+<body>
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-xl navbar-dark bg-dark">
+        <div class="container-fluid">
+            <!--Logo-->
+            <a class="navbar-brand mr-auto" alt="New Paltz Logo"><img src="Resources/Images/new_paltz_logo.png" width="142" height="40"></a>
+            <!--Nav links & button-->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+                <span class="navbar-toggler-icon"></span> <!--Icon appears for nav after breakpoints-->
+            </button>
+            <div class="collapse navbar-collapse mr-auto" id="navbarResponsive"> <!--follow W3 guide for proper notation-->
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="intro.html">Intro</a></li>
+                    <li class="nav-item active"><a class="nav-link" href="#">Roman Era</a></li>
+                    <li class="nav-item"><a class="nav-link" href="concept.html">Conception of the Monument</a></li>
+                    <li class="nav-item"><a class="nav-link" href="ethnic.html">Ethnic Connotations</a></li>
+                    <li class="nav-item"><a class="nav-link" href="modern.html">Modern Era</a></li>
+                    <li class="nav-item"><a class="nav-link" href="conclusion.html">Conclusion</a></li>
+                    <li class="nav-item"><a class="nav-link" href="bible.html">Bibliography</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!--Header Image-->
+    <div class="container-fluid" id="romanheader">
+        <div class="row">
+            <div class="col-sm-8 col-md-6 col-lg-4">
+                <h2 class="display-4 header-caption">Roman Era<br>
+                <small>Roman & Early German Interpretations</small></h2>
+            </div>
+        </div>
+    </div>
+    <!--ScrollSpy and Content-->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3 list-group list-group-flush bg-dark pt-3" id="myScrollSpy">
+                <div class="flex-column sticky-top"> <!--Create vertical list-->
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section1">Roman Historians</a>
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section5">Tacitus' Arminius</a>
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section6">Hutten's Retelling</a>
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section8">Footnotes</a>
+                </div>
+            </div>
+            <!--ScrollSpy Content-->
+            <div class="col-md-9 pt-3" style="background-color: gainsboro;">
+                <div data-spy="scroll" data-target="#myScrollSpy" data-offset="1" class="spy">
+                    <!--Written Content-->
+                    <div id="section1"> <!--Intro to Tacitus-->
+                        <p>Before delving into modern reception of the <em>Varusschlacht</em>, one must consider the man responsible
+                            for Arminius’s popularity from antiquity. Tacitus wrote extensively on the campaigns waged against
+                            Arminius by Germanicus in Book I and II of his <em>Annals</em>. Other Roman historians discuss Arminius, but 
+                            their writings pale in comparison to Tacitus’s depiction of Arminius. Unlike other historians, Tacitus
+                            portrays the chieftain as a fleshed out character who has his own hopes and aspirations. Arminius is 
+                            not only the liberator of Germany, but he is also a loyal husband and a competent warrior.<a href="#fn1" class="fn"><sup>1</sup></a>  
+                            For example, Arminius flies into a fit of rage upon hearing that Germanicus has captured his pregnant
+                            wife Thusenlda in AD 15.<a href="#fn2" class="fn"><sup>2</sup></a> Though unbecoming of a military leader, it is a humanizing moment for 
+                            the chieftain and speaks to his devotion to Thusenlda. Tacitus’s Arminius is also a competent 
+                            leader; he combats Rome’s superior numbers with brilliant tactics, such as directing his forces 
+                            to divert the streams and rivers to terraform the terrain into marshlands.<a href="#fn3" class="fn"><sup>3</sup></a>  Bogged down in 
+                            unfamiliar conditions, the legionaries fall victim to the Germani. Above all, Tacitus’s Arminius
+                            possesses virtus, a concept usually reserved for Romans. Usually defined as exhibiting valour on
+                            the battlefield, Arminius proves his virtus in combat as illustrated when Germanicus confronts 
+                            Arminius’s army: “[The] Cherusci were being pushed from the hills — among them the unmistakable
+                            figure of Arminius, striking, shouting, bleeding, in his effort to maintain the struggle.”<a href="#fn4" class="fn"><sup>4</sup></a>  
+                            Though Arminius opposes Rome, Tacitus portrays him as a worthy adversary and a virtuous warrior.
+                        </p>
+                        <figure class="figure float-right">
+                            <img src="Resources/Images/figure_roman_era_one.jpg" class="figure-img img-fluid rounded">
+                            <figcaption class="figure-caption text-right">
+                                Arminius and Varus depicted on the Walhalla Memorial, Regenburg
+                            </figcaption>
+                        </figure>
+                    </div>
+                    <div id="section2"> <!--Other Roman Historians-->
+                        <p>In contrast, other ancient historians treat Arminius with contempt and place the full blame of
+                            the <em>Varusschlacht</em> squarely on Varus’s shoulders. In his <em>Epitome of Roman History</em>, Florus 
+                            juxtaposes the virtuous Drusus, previous governor of Germania, against the cruel Varus.<a href="#fn5" class="fn"><sup>5</sup></a>
+                            Florus even compares Varus to Paullus, the defeated consul from the Battle of Cannae.<a href="#fn6" class="fn"><sup>6</sup></a>  
+                            Cassius Dio recounts the Varusschlahct in a similar manner. He argues that one could see the
+                            gradually societal change of the Germani people under Drusus; however, Varus strove to make the
+                            transition faster by imposing stricter enforcement of Roman law.<a href="#fn7" class="fn"><sup>7</sup></a>  Both Cassius Dio and Florus 
+                            attribute Varus’s strict rule as the catalyst to the <em>Varusschlacht</em>. On the other hand, very few
+                            ancient historians give credit to Arminius’s role in facilitating the ambush. These Romans argue
+                            that Arminius had no influence, for he and the Germani would never have rebelled under a 
+                            competent leader like Drusus. In this sense, Arminius is a faceless man who lacks personal 
+                            motivation to rebel against the Romans – only Varus is to blame.
+                        </p>
+                    </div>
+                    <div id="section3"> <!--Paterculus-->
+                        <p>Velleius Paterculus, a contemporary of the <em>Varusschlacht</em>, is the only ancient historian 
+                            besides Tacitus who gives some credence to Arminius’s aptitude. Paterculus describes him as,
+                            “…a young man of noble birth, brave in action and alert in mind, possessing an intelligence 
+                            quite beyond the ordinary barbarian…and he showed in his countenance and in his eyes the fire
+                            of the mind within.”<a href="#fn8" class="fn"><sup>8</sup></a>  In contrast, Paterculus notes all of Varus’s flaws – his slow wit, 
+                            his poor track record as the former governor of Syria, and his preference to litigating from 
+                            the camp rather than actual combat.<a href="#fn9" class="fn"><sup>9</sup></a>  Even though Paterculus recognizes Arminius’s abilities,
+                            Paterculus still rests the blame of the <em>Varusschlacht</em> solely on Varus just like Cassius Dio 
+                            and Florus did later. Since Paterculus considers Varus’s incompetence as the reason for the 
+                            impending disaster, Arminius is nothing more than an opportunist. Paterculus acknowledges 
+                            Arminius’s fervor, but the German served as an instrument of fortune to punish Varus. 
+                            This is a common theme throughout all the accounts discussing the massacre. Even in the arts, 
+                            the poet Manilius correlates the gods’ disapproval of Rome with the convulsion of the natural 
+                            order: "…savage Germany carried off General Varus and drenched the fields with the 
+                            blood of three legions. Then threatening lights were burning all over the firmament, 
+                            and nature herself waged war by means of these fiery lights, opposed her powers to us, 
+                            and threatened the end."<a href="#fn10" class="fn"><sup>10</sup></a> Likewise, Cassius Dio recounts several omens
+                            that occurred before and after the <em>Varusschlacht</em>, such as the temple of Mars being struck by
+                            lightning - the heavens were against Rome.<a href="#fn11" class="fn"><sup>11</sup></a> Despite Paterculus recognizing Arminius
+                            as an individual, the chieftain serves as a pawn of fate to punish Rome for its own incompetence. 
+                        </p>
+                    </div>
+                    <div id="section4"> <!--Tacitus' Germania-->
+                        <p>Unlike other ancient historians, Tacitus’s more sympathetic outlook toward Arminius was likely
+                            colored by his earlier works on the Germani. Tacitus’s wrote several histories before the <em>Annals</em>;
+                            one of those books was the <em>Germania</em>, an ethnography of the territories beyond the Rhine. 
+                            In the Germania, Tacitus praises the Germani for their fighting spirit and their morality. 
+                            He goes as far as equating German arms to the Roman toga, the quintessential symbol of manhood
+                            and citizenship - high praise for “barbarians.”<a href="#fn12" class="fn"><sup>12</sup></a>  In regards to morality, Tacitus discusses at 
+                            length the marriage and social customs of the Germani and applauds their chastity and devotion.
+                            Though primarily a veiled criticism towards the social decadence of his fellow Romans, 
+                            Tacitus concludes that, “good morality is more effective there than good laws elsewhere.”<a href="#fn13" class="fn"><sup>13</sup></a>
+                        </p>
+                        <figure class="figure float-right">
+                            <img src="Resources/Images/figure_roman_era_two.jpg" class="figure-img img-fluid rounded">
+                            <figcaption class="figure-caption text-right">
+                                Arminius bids farewell to Thusnelda
+                            </figcaption>
+                        </figure>
+                        <p>With the ethnography in mind, one should go back and compare Tacitus’s portrayal of Arminius 
+                            to the characteristics Tacitus admires in the <em>Germania</em>. Tacitus’s gleaming appraisal of Arminius 
+                            in the <em>Annals</em> begins to fade, for many of the chieftain’s actions contradict his supposedly 
+                            German values. Arminius unknowingly airs these contradictions in a speech to his soldiers 
+                            saying that, “Before his own sword three legions, three generals, had fallen. 
+                            For he practiced war, not by the help of treason nor against pregnant women, 
+                            but in open day against men who carried arms.”<a href="#fn14" class="fn"><sup>14</sup></a> The paradox is obvious. 
+                            Arminius did not defeat Varus in open combat. Instead, he betrayed Varus, and he led the legions
+                            into an ambush. Arminius facilitated his greatest achievement, the <em>Varusschlacht</em>, 
+                            with cloaks and daggers rather than with swords and shields. Though later Germans claimed
+                            that Tacitus presents Arminius in a favorable light, the conception that Tacitus greatly 
+                            admired Arminius begins to fade.
+                        </p>
+                    </div>
+                    <div id="section5"> <!--Tacitus' Arminius Reevaluated-->
+                        <p>These contradictions appear regularly throughout the <em>Annals</em>. According to the <em>Germania</em>, 
+                            fleeing the battlefield is the greatest shame possible for a German warrior; however, 
+                            Arminius evades capture for twelve years by fleeing the battlefield, a shameful act.<a href="#fn15" class="fn"><sup>15</sup></a>  
+                            Even his marriage with Thusnelda flies in the face of German tradition. Though Tacitus makes
+                            clear their devotion to one another, she was originally betrothed to another, 
+                            so their arrangement defies social norms according to the <em>Germania</em>.<a href="#fn16" class="fn"><sup>16</sup></a>
+                            The only remaining admirable traits that Tacitus praises, Arminius’s military strategies and 
+                            his virtus, are not German traits. Rather, Arminius’s time in the Roman legion fostered his 
+                            fighting spirit and tactical mind. The once rosy depiction of Tacitus’s Arminius continues 
+                            to falter under scrutiny.
+                        </p>
+                        <figure class="figure float-right">
+                            <img src="Resources/Images/figure_roman_era_three.jpg" class="figure-img img-fluid rounded">
+                            <figcaption class="figure-caption text-right">
+                                Germanicus surveying the bones of the fallen
+                            </figcaption>
+                        </figure>
+                        <p>Tacitus’s subsequent account of Germanicus stumbling upon the remnants of the fallen legions
+                            in Teutoburg Forest illustrates the monstrosity of Arminius. Tacitus claims that, 
+                            “In the plain between were bleaching bones, scattered or in little heaps, as the men had fallen,
+                            fleeing or standing fast. Hard by lay splintered spears and limbs of horses, while human 
+                            skulls were nailed prominently on the tree-trunks.”<a href="#fn17" class="fn"><sup>17</sup></a> 
+                            Not only is this a gruesome scene, but certain phrases, such as the white bones, 
+                            allude to Book IV and XII of Virgil’s epic when Aeneas recounts the sack of Troy.<a href="#fn18" class="fn"><sup>18</sup></a>  
+                            The vivid imagery and references to the Illiupersis testify to the depravity and 
+                            cruelty of Arminius and his men. The chieftain slaughtered thousands of Romans, 
+                            so it would be naïve to assume the Tacitus would hold anything but contempt towards Arminius. 
+                            On the surface, it may seem that Tacitus’s Arminius is different from other historians’ accounts.
+                            Tacitus occasionally does praise the chieftain. On the other hand, Tacitus’s portrayal of 
+                            Arminius runs counter to Tacitus’s own depiction of a virtuous German in his <em>Germania</em>. 
+                            In the end, Arminius is both the turbulator and liberator of Germany – an ambitious man with 
+                            many personal flaws.<a href="#fn19" class="fn"><sup>19</sup></a>
+                        </p>
+                    </div>
+                    <div id="section6"> <!--Hutten's Retelling-->
+                        <p>From the ancient sources alone, it is difficult to square away the admiration for Arminius 
+                            by later Germans and the chieftain’s disregard for Germanic traditions. However, 
+                            The German humanists of the sixteenth century looked past these flaws and focused solely 
+                            on the good. Consider Ulrich von Hutten’s <em>Arminius</em> dialogues, a continuation of
+                            Lucian’s <em>Dialogues of the Dead</em> where Minos must decide who was the greatest general
+                            to ever live – Alexander, Scipio, or Hannibal. Hutten revises the trial by introducing Arminius
+                            into the competition, and he calls Tacitus as a character witness. 
+                            Tacitus quotes the <em>Annals</em> verbatim by focusing on how Arminius defeated Rome at the height 
+                            of its power. Mercury verifies Tacitus’s assertions by claiming Tacitus to be the most 
+                            trustworthy of historians.<a href="#fn20" class="fn"><sup>20</sup></a> In Hutten’s iteration, Tacitus sincerely admired Arminius. 
+                            This is essential because by claiming Tacitus speaks the truth, 
+                            Hutten dismisses all the other historians who are critical of Arminius.
+                        </p>
+                        <p>When the other generals accused Arminius of betraying his Roman compatriots and 
+                            succumbing to tyrannical tendencies, Arminius defends himself. On the charge of treachery, 
+                            Arminius argues,
+                        </p>
+                        <blockquote class="blockquote">
+                            <p class="mb-0">But in my mind there was never a time when I felt subservient to anyone. 
+                                The thought of being free was always with me, and my mind was devoted to this one ambition, 
+                                to be prepared, should the occasion present itself, to free my fellow Germans who were bound 
+                                by the yoke of servitude.<a href="#fn21" class="fn"><sup>21</sup></a></p>
+                        </blockquote>
+                        <p>On the accusation of tyranny, Arminius appeals to the logos of the audience saying,</p>
+                        <blockquote class="blockquote">
+                            <p class="mb-0">We all know from human experience that the person possessing the greatest 
+                                virtues will also be the one to engender the most envy and jealousy... 
+                                The higher one has been exalted, the greater the jealousy he attracts. 
+                                He who attends to the highest matters of state must necessarily have more influence 
+                                and power over the people he rules.<a href="#22" class="fn"><sup>22</sup></a></p>
+                        </blockquote>
+                        <p>Because the Hutten’s dialogues are set in the court of the underworld, 
+                            everything that Arminius and Tacitus said must be true, so Arminius never truly served the 
+                            Romans nor did he ever harbor kingly ambition. In these two rebuttals, 
+                            Hutten absolves Arminius of his two most glaring character flaws. 
+                            Thus, Hutten whitewashes Tacitus’s version of Arminius, a nuanced character with human flaws 
+                            but hopeful aspirations, into this flawless exemplar of German virtues. 
+                        </p>
+                    </div>
+                    <div id="section7"> <!--Conclusion-->
+                        <p>Though Ulrich von Hutten’s <em>Arminius</em> is only one example, it speaks to how malleable these 
+                            ancient sources are in the hands of ideologues. German authors focused on the good and ignored 
+                            the flaws. Germans turned this once nuanced character into a caricature. With each simplification,
+                            the story of Arminius and the <em>Varusschlacht</em> resembled myth more than history. 
+                            Eventually, Arminius was nothing more than the exemplar of German virtue and the 
+                            steadfast opponent of all things Roman - Italians, the French, or Roman Catholics, 
+                            the chieftain did not discriminate. 
+                        </p>
+                    </div>
+                    <div id="section8"> <!--Footnotes-->
+                        <hr>
+                        <p id="fn1">[1] Tacitus, <cite>Annals</cite>, 2.88.2.</p>
+                        <p id="fn2">[2] Ibid, 1.59.</p>
+                        <p id="fn3">[3] Ibid, 1.64.</p>
+                        <p id="fn4">[4] Ibid, 2.17.</p>
+                        <p id="fn5">[5] Florus, <cite>Epitome of Roman History</cite>, 2.30.30.</p>
+                        <p id="fn6">[6] Ibid, 2.30.33-35.</p>
+                        <p id="fn7">[7] Cassius Dio, <cite>Roman History Vol 1</cite>, 56.18.3.</p>
+                        <p id="fn8">[8] Velleius Paterculus, <cite>Compendium of Roman History</cite>, 2.118.2.</p>
+                        <p id="fn9">[9] Ibid, 2.118.1.</p>
+                        <p id="fn10">[10] Manilius, <cite>Astronomica</cite>, 1.893-903.</p>
+                        <p id="fn11">[11] Cassius Dio, <cite>Epitome of Roman History</cite>, 56.24.2.</p>
+                        <p id="fn12">[12] Tacitus, <cite>Germania</cite>, 13. </p>
+                        <p id="fn13">[13] Ibid, 19.</p>
+                        <p id="fn14">[14] Tacitus, <cite>Annals</cite>, 1.59.</p>
+                        <p id="fn15">[15] Tacitus, <cite>Germania</cite>, 6.</p>
+                        <p id="fn16">[16] Ibid, 1.58.</p>
+                        <p id="fn17">[17] Ibid, 1.61.</p>
+                        <p id="fn18">[18] A.J. Woodman, <cite>The Cambridge Campion to Tacitus,</cite> (New York: Cambridge University Press, 2009), 5.</p>
+                        <p id="fn19">[19] Tacitus, <cite>Annals</cite>, 1.55.2 ; Ibid, 2.88.2</p>
+                        <p id="fn20">[20] Richard E. Walker, <cite>Ulrich von Hutten’s Arminius: An English Translation with Analysis and Commentary</cite> (Bern: Peter Lang, 2008), 27.</p>
+                        <p id="fn21">[21] Ibid, 36.</p>
+                        <p id="fn22">[22] Ibid, 38.</p>
+                    </div>
+                </div> <!--Col-->
+            </div> <!--Spyroll-->
+        </div> <!--Row-->
+    </div> <!--Container-Fluid-->
+</body>
+</html>

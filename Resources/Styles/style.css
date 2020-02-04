@@ -1,0 +1,89 @@
+h1, small, a, p {
+    font-family: 'Gelasio', serif;
+}
+/*Headers*/
+#homeheader {
+    background-image: url("../Images/header_bib.jpg");
+    background-size: cover;
+    height: 400px;
+    position: relative;
+    background-position: right center;
+}
+#introheader {
+    background-image: url("../Images/header_intro.jpg");
+    background-size: cover;
+    height: 400px;
+    position: relative;
+}
+#romanheader {
+    background-image: url("../Images/header.jpg");
+    background-size: cover;
+    height: 400px;
+    position: relative;
+}
+#conceptheader {
+    background-image: url("../Images/header_concept_mon.jpg");
+    background-size: cover;
+    height: 400px;
+    position: relative;
+}
+#ethnicheader {
+    background-image: url("../Images/header_ethnic.jpg");
+    background-size: cover;
+    height: 400px;
+    position: relative;
+}
+#modernheader {
+    background-image: url("../Images/header_modern_era.jpg");
+    background-size: cover;
+    height: 400px;
+    position: relative;
+}
+#concheader {
+    background-image: url("../Images/header_conc.jpg");
+    background-size: cover;
+    height: 400px;
+    position: relative;
+}
+#bibheader {
+    background-image: url("../Images/header_bib.jpg");
+    background-size: cover;
+    height: 400px;
+    position: relative;
+    background-position: right center;
+}
+.header-caption {
+    background: azure;
+    opacity: 0.6;
+    display: inline-block;
+    position: absolute;
+    top: 50px;
+    left: 10px;
+    right: 10px;
+}
+.figure {
+    padding-left: 5px;
+}
+/*SpyScroll */
+.spy {
+    position: relative;
+    overflow-y: scroll;
+    height: 50%;
+}
+.spy a {
+    color: black;
+}
+.spy a:hover {
+    color: gray;
+}
+.list-group a {
+    width: 100%;
+}
+/*Media Query to center figures on small screens ???*/
+@media screen and (max-width: 400px) {
+    figure.figure.float-right {
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+    }
+}

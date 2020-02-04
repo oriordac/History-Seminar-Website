@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href = "Resources/Styles/style.css" type = "text/css">
+    <!--Google font for Gelasio for Logo-->
+    <link href="https://fonts.googleapis.com/css?family=Gelasio&display=swap" rel="stylesheet">
+    <!--Font Awesome-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--Browser Tab Favicon-->
+    <link rel="icon" href="Resources/Images/favicon.png">
+    <!--Standard bootstrap setup-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <title>Hermannsdenkmal</title>
+</head>
+<body>
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-xl navbar-dark bg-dark">
+        <div class="container-fluid">
+            <!--Logo-->
+            <a class="navbar-brand mr-auto" alt="New Paltz Logo"><img src="Resources/Images/new_paltz_logo.png" width="142" height="40"></a>
+            <!--Nav links & button-->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+                <span class="navbar-toggler-icon"></span> <!--Icon appears for nav after breakpoints-->
+            </button>
+            <div class="collapse navbar-collapse mr-auto" id="navbarResponsive"> <!--follow W3 guide for proper notation-->
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                    <li class="nav-item active"><a class="nav-link" href="#">Intro</a></li>
+                    <li class="nav-item"><a class="nav-link" href="roman.html">Roman Era</a></li>
+                    <li class="nav-item"><a class="nav-link" href="concept.html">Conception of the Monument</a></li>
+                    <li class="nav-item"><a class="nav-link" href="ethnic.html">Ethnic Connotations</a></li>
+                    <li class="nav-item"><a class="nav-link" href="modern.html">Modern Era</a></li>
+                    <li class="nav-item"><a class="nav-link" href="conclusion.html">Conclusion</a></li>
+                    <li class="nav-item"><a class="nav-link" href="bible.html">Bibliography</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!--Header Image-->
+    <div class="container-fluid" id="introheader">
+        <div class="row">
+            <div class="col-sm-8 col-md-6 col-lg-4">
+                <h2 class="display-4 header-caption">Introduction<br>
+                <small>Exploring the Mythos of the Varusschlacht</small></h2>
+            </div>
+        </div>
+    </div>
+    <!--ScrollSpy and Content-->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3 pt-3 list-group list-group-flush bg-dark" id="myScrollSpy">
+                <div class="flex-column sticky-top"> <!--Create vertical list-->
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section1">Varusschlacht</a>
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section2">Thesis</a>
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section3">Historiography</a>
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section4">Footnotes</a>
+                </div>
+            </div>
+            <!--ScrollSpy Content-->
+            <div class="col-md-9 pt-3" style="background-color: gainsboro;">
+                <div data-spy="scroll" data-target="#myScrollSpy" data-offset="1" class="spy">
+                    <!--Written Content-->
+                    <div id="section1"> <!--Varrusschlacht-->
+                        <p>In the autumn of AD 9, Arminius, a German chieftain, led an ambush against the Roman commander 
+                            Publius Quinctilius Varus and the three lower Rhine legions in Teutoburg Forest. Depending on the 
+                            ancient sources, the massacre lasted one to four days with around 15,000 Romans killed or enslaved.<a href="#fn1" class="fn"><sup>1</sup></a> 
+                            In the aftermath, Emperor Augustus exclaimed this now famous line when news of the massacre reached 
+                            Rome: “Quintilius Varus, give me back my legions!”<a href="#fn2" class="fn"><sup>2</sup></a>  The battle sent shockwaves across the known world,
+                            and the proceeding Germanic Wars would last several years. Centuries later, the Roman Empire would 
+                            never reclaim their former hegemony in Germania, the territories and clans beyond the Rhine River.
+                        </p>
+                        <p>This battle, called the <em>clades Variana</em> (Varian disaster) in Latin, but more commonly known among
+                            German historians as the <em>Varusschlacht</em> (Varus’s battle) or the <em>Hermannsschlacht</em> (Hermann’s battle), 
+                            ranks among the greatest defeats of Rome. Though the <em>Varusschlacht</em> is a topic onto itself, the man 
+                            who orchestrated the battle is more fascinating. Arminius, prince of the Cherusci Clan located neat
+                            modern-day Hannover, was a Romanized German in every sense of the word; he spoke Latin, fought in the
+                            legions, and gained Roman citizenship.<a href="#fn3" class="fn"><sup>3</sup></a>  Up until the <em>Varusschlacht</em>, Arminius and the Cherusci were 
+                            adamant Roman sympathizers. The ill-fated Varus even considered Arminius a trusted adviser. Despite
+                            his elevated status in Roman society, Arminius threw it all away. He betrayed his Roman compatriots 
+                            and led them to slaughter, for he instructed Varus to march his legions through Teutoburg Forest.<a href="#fn4" class="fn"><sup>4</sup></a>  
+                            In response to the <em>Varusschlacht</em>, Tiberius and Germanicus, sons of the imperial family, launched 
+                            several campaigns against the chieftain, but Arminius always evaded capture. Ironically, Arminius 
+                            lost his life when he became what he most despised, a tyrannical king. His own clansmen murdered 
+                            him in AD 21 in fear of Arminius’s kingly ambitions straying too far from their Germanic values.<a href="#fn5" class="fn"><sup>5</sup></a>
+                        </p>
+                        <figure class="figure float-right">
+                            <img src="Resources/Images/figure_intro_one.jpg" class="figure-img img-fluid rounded">
+                            <figcaption class="figure-caption text-right">
+                                <em>Der Triumpf des Arminius nach der Varusschlacht</em> by Karl Grossauer
+                            </figcaption>
+                        </figure>
+                    </div>
+                    <div id="section2"> <!--Thesis-->
+                        <p>The mythical potential of Arminius is boundless, for a foreigner stood against and annihilated
+                            three Roman legions during the peak of the empire’s power. The Romans never outright defeated him
+                            because Arminius’s clansmen betrayed the chieftain and killed him before Rome had the chance. 
+                            It is no wonder that later Germans elevated Arminius, known by the German name Hermann, to near 
+                            cult-like status as a national hero. Some German intellectuals from the sixteenth century onwards 
+                            went as far as depicting Arminius as the ideal “German.”
+                        </p>
+                        <p>This paper analyzes the legacy of Arminius and his role as an exemplar of German virtues. 
+                            In the pursuit of an ancient heritage, German humanists of the Middle Ages scoured the writings
+                            of Roman historians and found Arminius and the Germani people. From language to culture, German 
+                            intellectuals attempted to draw parallels between contemporary Germans and the Germani in the 
+                            hopes of differentiating themselves from their Romanticized neighbours. As Arminius became a more
+                            recognizable figure, different groups co-opted him as an ideological figurehead. For example, 
+                            Nazi propaganda posters depict Adolf Hitler striking similar poses to popular imagery of Arminius.<a href="#fn6" class="fn"><sup>6</sup></a>
+                            To comprehend German reception of Arminius, I will focus on the <em>Hermannsdenkmal</em> (Hermann’s Monument) 
+                            in Detmold to gauge the public’s reception of Arminius. The research will focus on three 
+                            overarching themes – how Romans and Germans differed on their views of Arminius as the ideal German,
+                            how Arminius embodied the East-West divide as a symbol of anti-Roman sentiment, and the rise and fall
+                            of nationalistic spirit surrounding the <em>Hermannsdenkmal</em> in Germany from the nineteenth century onwards.
+                        </p>
+                        <figure class="figure float-right">
+                            <img src="Resources/Images/figure_intro_two.jpg" class="figure-img img-fluid rounded">
+                            <figcaption class="figure-caption text-right">
+                                The Hermannsdenkmal in Detmold, Germany
+                            </figcaption>
+                        </figure>
+                    </div>
+                    <div id="section3"> <!--Historiography-->
+                        <p>This research differs from other scholarship in two important aspects. The first is on the topic
+                            of German virtue. In his work <em>A Most Dangerous Book</em>, historian Christopher Krebs writes extensively 
+                            about the influence of Tacitus’s <em>Germania</em> on later German writers. Specifically, he explores the 
+                            evolution of these tacitean German virtues into <em>völkisch</em> traits during the Third Reich. Though Krebs 
+                            mentions Arminius, he does not appreciate the importance of Arminius in German reception. I will argue
+                            that Arminius was the ideal role model because not only does he embody the dichotomy between western 
+                            civilization and the “noble savage,” Arminius chooses his German heritage over his Roman upbringing. 
+                            The second is in regards to the coverage of the <em>Hermannsdenkmal</em>. Most historians only discuss the 
+                            monument’s history during the Second and Third Reich - very few consider reception in the twenty-first
+                            century. The few articles that address the <em>Hermannsdenkmal</em> in a modern context lack the necessary 
+                            historiography on German identity to tackle the extensive legacy of Arminius. Hence, I will consider 
+                            if the nationalistic and ethnic connotations associated with the figure of Arminius have faded away 
+                            in the modern age or if these negative memories linger.
+                        </p>
+                        <p>The theory of collective memory lends itself to this research on Roman and German reception, 
+                            for one of the quintessential components of the theory relies on the relationship between memory
+                            and identity. This applies to both the individual and the community, for memory, “…captures 
+                            simultaneously the individual, embodied, and lived side and the collective, social, and 
+                            constructed side of your relations to the past.”<a href="#fn7" class="fn"><sup>7</sup></a>  For example, consider the historical and 
+                            cultural implications of the <em>Varusschlacht</em>. Many modern historians argue that the <em>Varusschlacht</em> 
+                            had little to no influence on long-term Roman foreign policy. German historian Dieter Timpe 
+                            expresses this sentiment succinctly: “One cannot, with any seriousness, attribute to a German 
+                            chieftain the idea that he could bring about the fall of the Roman Empire or even of Roman rule 
+                            north of the Alps!”<a href="#fn8" class="fn"><sup>8</sup></a>  Though the <em>Varusschlacht</em> may have been insignificant in Roman history, 
+                            the battle had a profound impact on German identity. Arminius inspired future generations of 
+                            Germans who viewed the Germani as their ancestors. Historians Christopher Krebs and Herbert 
+                            Benario both note that German humanists found their <em>patria</em> (Latin for country) in the pages 
+                            of Tacitus’s <em>Germania</em>, a missing component of German identity long denied to them due to a lack
+                            of historical records.<a href="#fn9" class="fn"><sup>9</sup></a>  In essence, the study of collective memory relies on, “…a triad, 
+                            a three-cornered relationship among highly resonant parts of a memory landscape, individuals, 
+                            and groups...” who struggle to find meaning in the world around them.<a href="#fn10" class="fn"><sup>10</sup></a>
+                        </p>
+                    </div>
+                    <div id="section4"> <!--Footnotes-->
+                        <hr>
+                        <p id="fn1">[1] Peter S. Wells, <cite>The Battle that Stopped Rome</cite> (New York: W.W. Norton & Co., 2003), 187;
+                        the estimations are based on the rough size of three legions according to Cassius Dio, <cite>Roman History Vol 1</cite>, 56.22</p>
+                        <p id="fn2">[2] Suetonius, <cite>Lives of the Twelve Caesars Vol I</cite>, 2.23.</p>
+                        <p id="fn3">[3] Velleius Paterculus, <cite>Compendium of Roman History</cite>, 2.118.2.</p>
+                        <p id="fn4">[4] Ibid, 2.118.4.</p>
+                        <p id="fn5">[5] Tacitus, <cite>Annals</cite>, 2.88.</p>
+                        <p id="fn6">[6] Martin M. Winkler, <cite>Arminius the Liberator: Myth and Ideology</cite> (New York: Oxford University Press, 2016), 101.</p>
+                        <p id="fn7">[7] Michael Rothberg, <cite>Multidirectional Memory: Remembering the Holocaust in the Age of Decolonization</cite> (New York: Stanford University Press, 2009), 4.</p>
+                        <p id="fn8">[8] Winkler, <cite>Arminius the Liberator</cite>, 50.</p>
+                        <p id="fn9">[9] Christopher B. Krebs, <cite>A Most Dangerous Book: Tacitus’s Germania from the Roman Empire to the Third Reich</cite> (New York: W.W. Norton and Company, 2011), 128;
+                        Herbert W. Benario, "Arminius into Hermann: History into Legend," Greece & Rome 51, no. 1 (2004): 87.</p>
+                        <p id="fn10">[10] Rudy Koshar, <cite>From Monuments to Trace: Artifacts of German Memory 1870-1990</cite> (London: University of California Press, 2000), 10.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

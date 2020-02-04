@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href = "Resources/Styles/style.css" type = "text/css">
+    <!--Google font for Gelasio for Logo-->
+    <link href="https://fonts.googleapis.com/css?family=Gelasio&display=swap" rel="stylesheet">
+    <!--Font Awesome-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--Browser Tab Favicon-->
+    <link rel="icon" href="Resources/Images/favicon.png">
+    <!--Standard bootstrap setup-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <title>Hermannsdenkmal</title>
+</head>
+<body>
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-xl navbar-dark bg-dark">
+        <div class="container-fluid">
+            <!--Logo-->
+            <a class="navbar-brand mr-auto" alt="New Paltz Logo"><img src="Resources/Images/new_paltz_logo.png" width="142" height="40"></a>
+            <!--Nav links & button-->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+                <span class="navbar-toggler-icon"></span> <!--Icon appears for nav after breakpoints-->
+            </button>
+            <div class="collapse navbar-collapse mr-auto" id="navbarResponsive"> <!--follow W3 guide for proper notation-->
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="intro.html">Intro</a></li>
+                    <li class="nav-item"><a class="nav-link" href="roman.html">Roman Era</a></li>
+                    <li class="nav-item active"><a class="nav-link" href="concept.html">Conception of the Monument</a></li>
+                    <li class="nav-item"><a class="nav-link" href="ethnic.html">Ethnic Connotations</a></li>
+                    <li class="nav-item"><a class="nav-link" href="modern.html">Modern Era</a></li>
+                    <li class="nav-item"><a class="nav-link" href="conclusion.html">Conclusion</a></li>
+                    <li class="nav-item"><a class="nav-link" href="bible.html">Bibliography</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!--Header Image-->
+    <div class="container-fluid" id="conceptheader">
+        <div class="row">
+            <div class="col-sm-8 col-md-6 col-lg-4">
+                <h2 class="display-4 header-caption">Conception of the Monument<br>
+                <small>Rising Nationalistic Spirits</small></h2>
+            </div>
+        </div>
+    </div>
+    <!--ScrollSpy and Content-->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3 pt-3 list-group list-group-flush bg-dark" id="myScrollSpy">
+                <div class="flex-column sticky-top"> <!--Create vertical list-->
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section1">Ernst von Bandel</a>
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section2">Inspiration</a>
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section3">Grassroot Movement</a>
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section4">Footnotes</a>
+                </div>
+            </div>
+            <!--ScrollSpy Content-->
+            <div class="col-md-9 pt-3" style="background-color: gainsboro;">
+                <div data-spy="scroll" data-target="#myScrollSpy" data-offset="1" class="spy">
+                    <!--Written Content-->
+                    <div id="section1"> <!--Ernst von Bandel-->
+                        <p>Rising anti-French sentiment inspired Ernst von Bandel, the architect of the <em>Hermannsdenkmal</em>,
+                            to dedicate his whole life to the endeavor. Foreign occupying soldiers were a staple of Bandel’s
+                            childhood, for he was born in Ansbach on May 17, 1800 when the French threat loomed over the
+                            continent during the Napoleonic Wars. Some German scholars have speculated that Bandel’s 
+                            inspiration of the <em>Hermannsdenkmal</em> originated from an altercation between a French troop and his
+                            six year old self. The soldier “boxed” Bandel’s ears for being an insubordinate child. 
+                            Years later in 1872, Gartenlaube, a popular German magazine of the late nineteenth century, 
+                            published an article titled “A Creative Slap in the Face” inspired by this adolescent experience.<a href="#fn1" class="fn"><sup>1</sup></a>
+                            Even if this account was nothing more than a fable, Bandel already had sketches of the 
+                            <em>Hermannsdenkmal</em> by his university years.<a href="#fn2" class="fn"><sup>2</sup></a> Something instrumental must have happened during his
+                            formative years to spur him to spend the majority of his life constructing the <em>Hermannsdenkmal</em>. 
+                        </p>
+                        <figure class="figure float-right">
+                            <img src="Resources/Images/figure_concept_mon_one.jpg" class="figure-img img-fluid rounded">
+                            <figcaption class="figure-caption text-right">
+                                Arminius rescuing Germania from the battlefield of Leipzig
+                            </figcaption>
+                        </figure>
+                    </div>
+                    <div id="section2"> <!--Inspiration-->
+                        <p>The inspiration for the <em>Hermannsdenkmal</em> originated from the Wars for Liberation when several
+                            European territories united under a single banner to banish Napoleon from central Europe. 
+                            In particular, the Battle of Nations, also known as the Battle of Leipzig or the Völkerschlacht, 
+                            inspired Bandel and many other German nationalists for years to come. 
+                            This conflict marked the shifting of the tides, for Napoleon suffered his first major defeat 
+                            on the battlefield against the opposing coalition consisting of Prussia, Austria, Russia, 
+                            Sweden, and other Germanic states. Until this battle, Napoleon’s only defeat had been a 
+                            reluctant retreat from Russia the previous year. Bavaria, the state were Bandel’s hometown 
+                            was located, betrayed its French allies by swearing allegiance to the opposing coalition 
+                            just days before the fateful battle.<a href="#fn3" class="fn"><sup>3</sup></a> After several days, the coalition routed Napoleon from 
+                            the city; the battle would be the largest conflict known to Europe until the World Wars. 
+                            Since the Battle of Leipzig was such a turning point in the war against France, 
+                            many festivals celebrated the Völkerschlacht as a second <em>Varusschlacht</em>.<a href="#fn4" class="fn"><sup>4</sup></a>
+                            Consider Karl Russ’s 1818 drawing of Arminius rescuing the enchained Germania, 
+                            the German nation personified, from the battlefield of Leipzig.<a href="#fn5" class="fn"><sup>5</sup></a>  
+                            Not only does this drawing give credence to the importance of the <em>Varusschlacht</em> to a German 
+                            audience, but it also makes clear the connection between Rome and France. 
+                            Germania’s former captors clutch Roman standards in their cold, dead hands. 
+                            Due to this parallel between the Völkerschlacht and the <em>Varusschlacht</em>, 
+                            it is clear that the Wars for Liberation ignited a nationalistic fervor in Ernst von Bandel 
+                            to dedicate thirty-seven years of his life to honor this second <em>Varusschlacht</em>.
+                        </p>
+                        <p>The years leading up to the opening ceremony of the <em>Hermannsdenkmal</em> in 1875 require a brief 
+                            contextualization since renewed interest in Arminius accompanied a national awakening. 
+                            The cornerstone celebration for the monument occurred on September 8, 1841 followed by a 
+                            recital of Mortiz Arndt’s patriotic song “What is the German’s Fatherland?”<a href="#fn6" class="fn"><sup>6</sup></a>  
+                            Arndt was another German patriot inspired by the Battle of Nations; the Völkerschlachtdenkmal 
+                            in Leipzig even pays homage to Arndt’s earlier designs for such a monument. 
+                            Unfortunately for the <em>Hermannsdenkmal</em>, as soon as construction began, the project fell in 
+                            desperate financial straits, so Bandel had to postpone the project and move to Hannover 
+                            for more favourable work.<a href="#fn7" class="fn"><sup>7</sup></a> It was only after the Franco-Prussian War that funding began to 
+                            flow again. In 1868, soon-to-be Kaiser Wilhelm I’s visit to Bandel’s workshop sparked 
+                            renewed interest in the <em>Hermannsdenkmal</em>, and the Reichstag’s generous donation of 10,000 
+                            talers spurred on further construction.  Though a large sum of money, that donation alone 
+                            would not have covered the 90,000 talers cost.<a href="#fn8" class="fn"><sup>8</sup></a> Outside of other notable figures such as 
+                            King Ludwig I of Bavaria and Prince Leopold of Lippe, public donations raised 
+                            the remaining funds.
+                        </p>
+                        <figure class="figure float-right">
+                            <img src="Resources/Images/figure_concept_mon_three.jpg" class="figure-img img-fluid rounded">
+                            <figcaption class="figure-caption text-right">
+                                Ernst von Bandel by Wilhelm Tegeler
+                            </figcaption>
+                        </figure> 
+                    </div>
+                    <div id="section3"> <!--Grassroot Movement-->
+                        <p>This begs the question of how private citizens from across the newly formed German nation 
+                            became aware of the monument’s construction and were willing to fund the outstanding deficit. 
+                            After all, even after the monument’s completion, few tourists journeyed to the site; 
+                            only about 1,500 to 1,800 annual visitors trekked into the forest to see the <em>Hermannsdenkmal</em> 
+                            between 1875 and 1880. However, this number skyrocketed to 20,500 in 1895 and 41,000 in 1909 
+                            thanks to the installation of a train station in Detmold.<a href="#fn9" class="fn"><sup>9</sup></a> These later visitors likely 
+                            participated in fundraisers for the monument, but they were unable to visit this otherwise 
+                            obscure monument. Historian Kirsten Belgum lays out a compelling argument that even though 
+                            many Germans never saw these structures in the flesh, popular magazines such as Gartenlaube 
+                            exposed the budding German nation to nationalistic monuments such as the Niederwalddenkmal 
+                            and the <em>Hermannsdenkmal</em>. As Belgum points out, Gartenlaube enjoyed the largest circulation 
+                            of any German-language publication at the time with 310,000 subscriptions by 1871.<a href="#fn10" class="fn"><sup>10</sup></a>
+                        </p>
+                        <p>Other advocates of the <em>Hermannsdenkmal</em> tapped into this budding national interest. 
+                            Hans Ferdinand Massman, fast friends with Bandel, lobbied on the monument’s behalf. 
+                            Massman himself published two books and several poems on Arminius which were quite popular 
+                            with the public.<a href="#fn11" class="fn"><sup>11</sup></a>  Bandel also appealed to the top students from 300 grammar schools to 
+                            contribute and gather donations in their local communities.<a href="#fn12" class="fn"><sup>12</sup></a> This would only have been 
+                            successful if these schools instilled into children the mythological and nationalistic 
+                            connotations surrounding Arminius. Eventually, the monument was inaugurated on August 16, 
+                            1875 in the presence of the Kaiser and around 20,000 to 30,000 attendees.<a href="#fn13" class="fn"><sup>13</sup></a>  
+                            Naturally, Gartenlaube printed a featurette on the festivities.<a href="#fn14" class="fn"><sup>14</sup></a>
+                        </p>
+                    </div>
+                    <div id="section4"> <!--Footnotes-->
+                        <hr>
+                        <p id="fn1">[1] <cite>Gartenlaube</cite> 20 (1872): 441-44, cited in Kirsten Belgum, 
+                         “Displaying the Nation: A View of Nineteenth-Century Monuments through a Popular Magazine,” Central European History 26, no. 4 (1993): 464.</p>
+                        <p id="fn2">[2] Hans A. Pohlsander, <cite>National Monuments and Nationalism in 19th Century Germany</cite> (Bern: Peter Lang, 2008) 154.</p>
+                        <p id="fn3">[3] David G. Chandler, <cite>The Campaigns of Napoleon</cite> (New York: The MacMillan Company, 1966), 873.</p>
+                        <p id="fn4">[4] Winkler, <cite>Arminius the Liberator</cite>, 67.</p>
+                        <p id="fn5">[5] Fansa von Mamoun, <cite>Varusschlacht und Germanenmythos</cite> (Oldenburg, Isensee, 2001), 48 Fig 5.</p>
+                        <p id="fn6">[6] Hermann Kesting, <cite>Arminius</cite>, trans. Elise Schnasse (Detmold: Hermann Bösmann, 1982), 30.</p>
+                        <p id="fn7">[7] Ibid, 35.</p>
+                        <p id="fn8">[8] Ibid, 36.</p>
+                        <p id="fn9">[9] Belgum, “Displaying the Nation: A View of Nineteenth-Century Monuments through a Popular Magazine,” 458.</p>
+                        <p id="fn10">[10] Ibid, 460.</p>
+                        <p id="fn11">[11] Winkler, <cite>Arminius the Liberator</cite>, 67.</p>
+                        <p id="fn12">[12] Kesting, <cite>Arminius</cite>, 36.</p>
+                        <p id="fn13">[13] Frank Huismann, <cite>Das Hermannsdenkmal - Daten, Fakten, Hintergründe</cite> (Münster: Scriptorium, 2008), 73.</p>
+                        <p id="fn14">[14] <cite>Gartenlaube</cite> 23 (1875): 640-41, cited in Belgum, “Displaying the Nation: A View of Nineteenth-Century Monuments through a Popular Magazine,” 472.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

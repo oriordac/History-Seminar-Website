@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href = "Resources/Styles/style.css" type = "text/css">
+    <!--Google font for Gelasio for Logo-->
+    <link href="https://fonts.googleapis.com/css?family=Gelasio&display=swap" rel="stylesheet">
+    <!--Font Awesome-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--Browser Tab Favicon-->
+    <link rel="icon" href="Resources/Images/favicon.png">
+    <!--Standard bootstrap setup-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <title>Hermannsdenkmal</title>
+</head>
+<body>
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-xl navbar-dark bg-dark">
+        <div class="container-fluid">
+            <!--Logo-->
+            <a class="navbar-brand mr-auto" alt="New Paltz Logo"><img src="Resources/Images/new_paltz_logo.png" width="142" height="40"></a>
+            <!--Nav links & button-->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+                <span class="navbar-toggler-icon"></span> <!--Icon appears for nav after breakpoints-->
+            </button>
+            <div class="collapse navbar-collapse mr-auto" id="navbarResponsive"> <!--follow W3 guide for proper notation-->
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="intro.html">Intro</a></li>
+                    <li class="nav-item"><a class="nav-link" href="roman.html">Roman Era</a></li>
+                    <li class="nav-item"><a class="nav-link" href="concept.html">Conception of the Monument</a></li>
+                    <li class="nav-item"><a class="nav-link" href="ethnic.html">Ethnic Connotations</a></li>
+                    <li class="nav-item active"><a class="nav-link" href="#">Modern Era</a></li>
+                    <li class="nav-item"><a class="nav-link" href="conclusion.html">Conclusion</a></li>
+                    <li class="nav-item"><a class="nav-link" href="bible.html">Bibliography</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!--Header Image-->
+    <div class="container-fluid" id="modernheader">
+        <div class="row">
+            <div class="col-sm-8 col-md-6 col-lg-4">
+                <h2 class="display-4 header-caption">Modern Era<br>
+                <small>Ideal German to Regional Mascot</small></h2>
+            </div>
+        </div>
+    </div>
+    <!--ScrollSpy and Content-->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3 pt-3 list-group list-group-flush bg-dark" id="myScrollSpy">
+                <div class="flex-column sticky-top"> <!--Create vertical list-->
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section1">Fading Militarism</a>
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section2">Local Hero</a>
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section3">Footnotes</a>
+                </div>
+            </div>
+            <!--ScrollSpy Content-->
+            <div class="col-md-9 pt-3" style="background-color: gainsboro;">
+                <div data-spy="scroll" data-target="#myScrollSpy" data-offset="1" class="spy">
+                    <!--Written Content-->
+                    <div id="section1"> <!--Fading Militarism-->
+                        <p>The monument remained physically the same in the immediate aftermath of the Third Reich, 
+                            emerging unscathed from the carnage of WWII thanks to its isolated location in the woods. 
+                            However, the public began to dissociate itself from the monument’s militant undertones. 
+                            The seventy-fifth anniversary of the <em>Hermannsdenkmal</em> occurred in 1950, 
+                            and the event provides a case-study in shifting attitudes towards the figure of Arminius 
+                            soon after the war. Tourist numbers nosedived in comparison to the heights achieved during 
+                            the Third Reich; however, 200,000 attendees were still impressive given the conditions 
+                            of Germany at the time. It should be noted that President Theodor Huess of the 
+                            Federal Republic of Germany (FDR) was not among the visitors.<a href="#fn1" class="fn"><sup>1</sup></a> 
+                            The celebration was a somber one, and the ceremony ended with the installation of a plaque nearby the monument. 
+                            The inscription reads: “German women and men unanimously profess on the occasion of the 
+                            75th anniversary of the <em>Hermannsdenkmal</em> to the unification of the people through peace.”<a href="#fn2" class="fn"><sup>2</sup></a>  
+                            The last interesting note from the ceremony was the lack of East German representation. 
+                            The National Front, which represented the eastern political parties of the 
+                            German Democratic Republic (GDR), refused to provide their city flags for the event. 
+                            In contrast, 152 city flags from the FDR were available if need be.<a href="#fn3" class="fn"><sup>3</sup></a> 
+                            Between the absence of President Huess and the National Front,
+                            the political sway of the monument had begun to dissipate in both the West and East Germany.
+                        </p>
+                        <figure class="figure float-right">
+                            <img src="Resources/Images/figure_modern_era_one.jpeg" class="figure-img img-fluid rounded">
+                            <figcaption class="figure-caption text-right">
+                                Anselm Kiefer
+                            </figcaption>
+                        </figure>
+                        <p>The vestiges of the <em>Varusschlacht</em> pathos now resided solely in the cultural spheres, 
+                            and many artists attempted to confront this past through their work. 
+                            In 1985, art historian Wieland Schmied stated that, “Of all contemporary German painters 
+                            Anselm Kiefer is regards as the most ‘German.’ And in fact he is, more than any other artist, 
+                            a painter of ‘German’ themes.”<a href="#fn4" class="fn"><sup>4</sup></a>
+                            The German themes in question are his Hermannsschlacht series and his 
+                            1976 painting titled <em>Varus</em>. Born in 1945, Kiefer represented the next generation of 
+                            West Germans grappling with the fascist past, a concept known as Vergangenheitsbewältigung. 
+                            While describing the Hermannsschlacht series, Mathew Rampley noted that, 
+                            “In these paintings from the early 1970s one can…see how Kiefer is undertaking an 
+                            interrogation of the intertwining of romanticism, nationalism and Nazism by 
+                            highlighting common motifs and ideologemes.”<a href="#fn5" class="fn"><sup>5</sup></a>
+                            Similarly, the <em>Varus</em> painting illustrates the legacy of the <em>Varusschlacht</em> mythos and 
+                            its dangers. A wooded path leads deeper into the forest; the blood in the foreground, 
+                            which resembles bullet holes, is the only indicator of the battle in the distance out of frame. 
+                            This ominous setting runs counter to the importance of the forest, 
+                            the supposed origin of the Germanic people according to Tacitus.<a href="#fn6" class="fn"><sup>6</sup></a>  
+                            Amongst the branches of these painted trees are names of German authors, politicians, 
+                            and playwrights such as Hutten, Grabbe, and Martin Luther who elevated the <em>Varusschlacht</em> 
+                            to its cult-like status. These historical figures set Arminius on a trajectory to become 
+                            a fascist icon. By acknowledging this dangerous lineage, Kiefer’s artistic works embody 
+                            shifting western attitudes towards Arminius and this Teutonic tradition tainted in militarism.
+                        </p>
+                    </div>
+                    <div id="section2"> <!--Local Hero-->
+                        <p>The shift away from German nationalism sentenced the <em>Hermannsdenkmal</em> to solitary confinement 
+                            within the forest for decades. Only in recent years have Arminius emerged from the woods into 
+                            the public sphere. This change was brought about during the age of consumerism when Arminius 
+                            became the mascot for the Lippe region. Statues of Arminius now litter the streets of Detmold 
+                            standing guard by the doors of many tourist shops. If the life-size model of Arminius is 
+                            too intimidating, gnome versions of the Liberator of Germania are available to protect 
+                            the lawn from Roman intruders.<a href="#fn7" class="fn"><sup>7</sup></a>
+                            Tourist numbers for the <em>Hermannsdenkmal</em> have always been decent, but now, half a million 
+                            annual visitors come to see the monument.<a href="#fn8" class="fn"><sup>8</sup></a>  The discovery of the true battlefield of the 
+                            Varruschlacht at Kalkriese in 1987 certainly sparked renewed interest, 
+                            but that alone does not explain the staying power of Arminius in recent memory. 
+                            This begs the question of how Arminius re-emerged in the public imagination and if 
+                            he retains any of his anti-Roman or anti-French connotations.
+                        </p>
+                        <figure class="figure float-right">
+                            <img src="Resources/Images/figure_modern_era_two.jpg" class="figure-img img-fluid rounded">
+                            <figcaption class="figure-caption text-right">
+                                Thusnelda with her own beer brand!
+                            </figcaption>
+                        </figure>
+                        <p><em>Arminia Bielefeld</em>, the local soccer organization, was the driving force that sustained 
+                            Arminius’s positive image. Advertisements for <em>Arminia</em> often depict the <em>Hermannsdenkmal</em>
+                            wearing the club’s jersey. This was taken quite literally in 1999 when the Arminius statue 
+                            was dressed in the largest soccer jersey ever created for two weeks.<a href="#fn9" class="fn"><sup>9</sup></a>  
+                            Featuring the number nine in reference to the year of the <em>Varusschlacht</em>, 
+                            this commercial stunt cemented Arminius’s association with soccer. 
+                            This may be why the <em>Lippisches Landesmuseum</em> commissioned a recreation of Arminius’s left foot 
+                            as part of their advertisement campaign for their 2009 “Myth: Exhibition" in Detmold.<a href="#fn10" class="fn"><sup>10</sup></a>
+                        </p>
+                        <p><em>Arminia</em> fully embraces the figure of Arminius and all that he stands for. 
+                        On their website, the organization likens the <em>Varusschlacht</em> to a soccer match where Rome 
+                        is the visiting team while the Germani defend their home turf:
+                        </p>
+                        <blockquote class="blockquote">
+                            <p class="mb-0">Team captain Arminius had home advantage. There was no umpire, 
+                                cheating was permitted, and bad weather also favoured the home team when they put an end 
+                                to the invaders’ attempts to conquer the boggy, marshy lands between the Rhine and 
+                                Elbe River.<a href="#fn11" class="fn"><sup>11</sup></a></p>
+                        </blockquote>
+                        <figure class="figure float-right">
+                            <img src="Resources/Images/figure_modern_era_three.jpg" class="figure-img img-fluid rounded">
+                            <figcaption class="figure-caption text-right">
+                                Arminius supporting the local team.
+                            </figcaption>
+                        </figure>
+                        <p>As a local military hero, Arminius is a fitting mascot for a sports team. 
+                            Though clearly in jest, the tone is eerily similar to the rhetoric employed by the fascists. 
+                            Despite the embrace of Arminius as a marketing tool, some local Germans still feel uneasy. 
+                            This is evident by the display of Arminius’s left foot commissioned by the Detmold museum. 
+                            It is the left foot of the <em>Hermannsdenkmal</em> that crushes the Roman eagle and fasces 
+                            into submission, but this recreation is only the foot – no Roman symbols in sight. 
+                            This is notable because the creator chose the left foot with these connotations over 
+                            the right foot which has absolutely no meaning attached to it. 
+                            There is also the case for several of the Arminius statues in town; some of miniature 
+                            recreations have the original design of Arminius stomping on the Roman eagle and fasces while 
+                            others removed the Roman emblems underfoot entirely.
+                        </p>
+                        <p>This tension was also present in the 2000th anniversary of the <em>Varusschlacht</em> in 2009. 
+                        The seventy-fifth anniversary of the inauguration ceremony of the <em>Hermannsdenkmal</em> in 1950 
+                        provides a good foil to modern German reception during this fifty-nine year time span. 
+                        Unlike President Heuss in 1950, Chancellor Angela Merkel travelled to the Kalkriese exhibit to 
+                        enjoy the festivities. Gisela Söger, a public relation staffer for the Kalkriese museum, 
+                        said this: “…the myth of Hermann has lost its power in modern Germany. The old nationalism has 
+                        been replaced by an easy-going patriotism that mainly manifests itself at sporting events like 
+                        the soccer World Cup.”<a href="#fn12" class="fn"><sup>12</sup></a>  However, a reenactment of the <em>Varusschlacht</em> at Kalkriese says otherwise. 
+                        As Der Spiegel reported, “some 400 actors dressed as Romans or Germanic tribesmen gently 
+                        re-enacted scenes… Most actors wanted to be Romans, and there was such a shortage of Germanic 
+                        warriors that some hirsute hobby Vikings had to be recruited to make up the numbers.”<a href="#fn13" class="fn"><sup>13</sup></a>  
+                        These reenactors would rather be “slaughtered” as Romans than be associated with the Germanic victors.
+                        The commercialization of Arminius should have redeemed the chieftain in the eyes of the public, 
+                        for Arminius’s mascot status should have normalized and weakened his past ties to nationalism. 
+                        However, this is still not the case, for the <em>Varusschlacht</em> myth seems to still hold sway over 
+                        modern Germans.
+                        </p>
+                    </div>
+                    <div id="section3"> <!--Footnotes-->
+                        <hr>
+                        <p id="fn1">[1] "<a href="www.spiegel.de/spiegel/print/d-44448577.html" target="_blank">Hermannsdenkmal: Durchs Nasenloch gestürzt</a>," <cite>Der Spiegel</cite> Online, August 8, 1950, 10.</p>
+                        <p id="fn2">[2] Translation by author.</p>
+                        <p id="fn3">[3] "<a href="www.spiegel.de/spiegel/print/d-44448577.html" target="_blank">Hermannsdenkmal: Durchs Nasenloch gestürzt</a>," 11.</p>
+                        <p id="fn4">[4] Martin Brady, “Anselm Kiefer, Die Hermannsschlacht, and the Battle of Modernism,” in <cite>Germania Remembered</cite>, ed. Lee and McLelland, 290-1.</p>
+                        <p id="fn5">[5] Mathew Rampley, "In Search of Cultural History: Anselm Kiefer and the Ambivalence of Modernism," <cite>Oxford Art Journal</cite> 23, no. 1 (2000): 84. </p>
+                        <p id="fn6">[6] Tacitus, <cite>Germania</cite>, 9.</p>
+                        <p id="fn7">[7] Magnus Brechtken, “Leaving the Forest: ‘Hermann the German’ as Cultural Representation from Nationalism to Post-Modern Consumerism,” in <cite>Germania Remembered</cite>, ed. Lee and McLelland, 333.</p>
+                        <p id="fn8">[8] Landesverband Lippe, “<a href="www.hermannsdenkmal.de/hermann-erleben/infomaterial" target="_blank">Infomaterial</a>,” Das Hermannsdenkmal, accessed on March 19, 2019.</p>
+                        <p id="fn9">[9] Brechtken, “Leaving the Forest: ‘Hermann the German’ as Cultural Representation from Nationalism to Post-Modern Consumerism,” in <cite>Germania Remembered</cite>, ed. Lee and McLelland, 329.</p>
+                        <p id="fn10">[10] Ibid, 330.</p>
+                        <p id="fn11">[11] Cited in Andreas Musolff, “The Global Westphalian: Arminius/Hermann as a Post-National Identification Figure,” in <cite>Germania Remembered</cite>, ed. Lee and McLelland, 343.</p>
+                        <p id="fn12">[12] David Crossland, “<a href="www.spiegel.de/international/germany/battle-of-the-teutoburg-forest-germany-recalls-myth-that-created-the-nation-a-644913.html" target="_blank">Battle of Teutoburg Forest: Germany Recalls Myth that Created the Nation</a>,” <cite>Der Spiegel</cite> Online, August 28, 2009.</p>
+                        <p id="fn13">[13] Ibid.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

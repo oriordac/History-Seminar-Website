@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href = "Resources/Styles/style.css" type = "text/css">
+    <!--Google font for Gelasio for Logo-->
+    <link href="https://fonts.googleapis.com/css?family=Gelasio&display=swap" rel="stylesheet">
+    <!--Font Awesome-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--Browser Tab Favicon-->
+    <link rel="icon" href="Resources/Images/favicon.png">
+    <!--Standard bootstrap setup-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <title>Hermannsdenkmal</title>
+</head>
+<body>
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-xl navbar-dark bg-dark">
+        <div class="container-fluid">
+            <!--Logo-->
+            <a class="navbar-brand mr-auto" alt="New Paltz Logo"><img src="Resources/Images/new_paltz_logo.png" width="142" height="40"></a>
+            <!--Nav links & button-->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+                <span class="navbar-toggler-icon"></span> <!--Icon appears for nav after breakpoints-->
+            </button>
+            <div class="collapse navbar-collapse mr-auto" id="navbarResponsive"> <!--follow W3 guide for proper notation-->
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="intro.html">Intro</a></li>
+                    <li class="nav-item"><a class="nav-link" href="roman.html">Roman Era</a></li>
+                    <li class="nav-item"><a class="nav-link" href="concept.html">Conception of the Monument</a></li>
+                    <li class="nav-item active"><a class="nav-link" href="ethnic.html">Ethnic Connotations</a></li>
+                    <li class="nav-item"><a class="nav-link" href="modern.html">Modern Era</a></li>
+                    <li class="nav-item"><a class="nav-link" href="conclusion.html">Conclusion</a></li>
+                    <li class="nav-item"><a class="nav-link" href="bible.html">Bibliography</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!--Header Image-->
+    <div class="container-fluid" id="ethnicheader">
+        <div class="row">
+            <div class="col-sm-8 col-md-6 col-lg-4">
+                <h2 class="display-4 header-caption">Ethnic Connotations<br>
+                <small>Arminius Vanquishes the Invaders</small></h2>
+            </div>
+        </div>
+    </div>
+    <!--ScrollSpy and Content-->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3 pt-3 list-group list-group-flush bg-dark" id="myScrollSpy">
+                <div class="flex-column sticky-top"> <!--Create vertical list-->
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section1">Monument Description</a>
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section2">Deutsch & Welsch</a>
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section3">Roman & Welsch</a>
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section4">Kulturkampf</a>
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section5">Footnotes</a>
+                </div>
+            </div>
+            <!--ScrollSpy Content-->
+            <div class="col-md-9 pt-3" style="background-color: gainsboro;">
+                <div data-spy="scroll" data-target="#myScrollSpy" data-offset="1" class="spy">
+                    <!--Written Content-->
+                    <div id="section1"> <!--Monument Description-->
+                        <p>Though inspired by Arminius, the <em>Hermannsdenkmal</em> was very much a product of its time. 
+                            The statue towers above the forest landscape at 24.82 m; when taking the base into account, 
+                            the whole monument is 53.44 m.<a href="#fn1" class="fn"><sup>1</sup></a>  Arminius wears Roman military attire, but that is the only 
+                            Roman element. Donning a winged helmet and a full beard, Arminius raises a mighty sword 
+                            skywards as if to issue a challenge towards his foes. Etched on the sword are these words: 
+                            “GERMAN UNITY, MY STRENGTH; MY STRENGTH, GERMANY’S MIGHT.”<a href="#fn2" class="fn"><sup>2</sup></a>  
+                            It is important to note that <em>Deutschland</em>, not <em>Germania</em>, is inscribed on the blade. 
+                            The word <em>Deutschland</em> represents modern-day Germany as a nation-state – a word Arminius 
+                            would have never known. As Dutch novelist noted, “He [Arminius] did not know that Germany existed,
+                            so he could not know that he had liberated it…History, that old anachronistic liar, 
+                            is up to its old tricks again.”<a href="#fn3" class="fn"><sup>3</sup></a> Carved onto his shield is the word Truefest 
+                            meaning “faithful-firm.”<a href="#fn4" class="fn4"><sup>4</sup></a> Lastly, Arminius’s left foot stands atop a Roman legionary eagle 
+                            and fasces, symbols of Rome’s governmental and military might.
+                        </p>
+                        <figure class="figure float-right">
+                            <img src="Resources/Images/figure_ethnic_one.jpg" class="figure-img img-fluid rounded">
+                            <figcaption class="figure-caption text-right">
+                                Arminius standing atop a Roman eagle
+                            </figcaption>
+                        </figure>
+                        <p>One would expect the statue to face southward towards Rome, but surprisingly, 
+                            Arminius and his sword point westward towards France. The descriptions below in the niches 
+                            of the monument’s base solidify France as the modern embodiment of the Roman Empire. 
+                            The first inscription reads as follows:
+                        </p>
+                        <blockquote class="blockquote">
+                            <p class="mb-0">Only because the German people had become too French and powerless through 
+                                disunity could Napoleon Bonaparte Emperor of the French subjugate Germany with the aid of Germans; 
+                                then finally in 1813 all German tribes gathered around the sword raised high by Prussia, 
+                                from disgrace victoriously fighting for their home country’s freedom.<a href="#fn5" class="fn"><sup>5</sup></a>
+                            </p>
+                        </blockquote>
+                        <p>Napoleon was only able to conquer Germany with the assistance of other Germans which is 
+                            similar to how Rome ruled Germania with the assistance of other Germanic clans such 
+                            as the Cherusci. Though it was easy to portray the Wars for Liberation as the tale of 
+                            Europe against France, the ethnicity of the troops led by Napoleon were not as clear cut. 
+                            Bandel’s hometown may have sided with Prussia in its time of need, but there were many 
+                            “Germans” fighting alongside the French. For example, the Confederation of the Rhine 
+                            aided Napoleon during the Battle of Nations. Nevertheless, the emphasis on German unity 
+                            against foreign threats and internal enemies is reminiscent of the <em>Varusschlacht</em> myth. 
+                            The second inscription honours Kaiser Wilhelm I and ties his legacy to Arminius:
+                        </p>
+                        <blockquote class="blockquote">
+                            <p class="mb-0">He who united long divided tribes by a strong hand, he who victoriously 
+                                overcame ‘Welsh’ might and malice, he who takes long-lost sons home to the German empire, 
+                                he is equal to Arminius the rescuer.”<a href="#fn6" class="fn"><sup>6</sup></a>
+                            </p>
+                        </blockquote>
+                        <p>Directly above this passage is a metallic relief of the Kaiser crafted from bronze originating
+                            from French cannons captured during the Franco-Prussian War.<a href="#fn7" class="fn"><sup>7</sup></a> This was a common tradition at 
+                            this point, for cannons adorned the column of the Siegessäule in Berlin. 
+                            On the other hand, the context of the <em>Varusschlacht</em> breathes ancient meaning into this 
+                            new tradition; just as Arminius stole three Roman standards from the fallen legions, 
+                            the Kaiser pillaged and robbed France of its military might. In this sense, 
+                            the passage draws an obvious parallel between the Kaiser and Arminius.
+                        </p>
+                    </div>
+                    <div id="section2"> <!--Deutsch & Welsch-->
+                        <p>However, what truly makes this second inscription provoking is the usage of the term <em>welsch</em> 
+                            rather than französisch, the standard adjective for French. <em>Welsch</em> is synonymous with the 
+                            adjective römisch (Roman), but <em>welsch</em> carries a more negative connotation and was often 
+                            used to describe foreigners. The famous German historian Theodor Massmann wrote this in 
+                            regards to the words <em>deutsch</em> and <em>welsch</em>:
+                        </p>
+                        <blockquote class="blockquote">
+                            <p class="mb-0">The two adjectives <em>deutsch</em> and <em>welsch</em>, about which a biography of their own 
+                            could be written, have meant, through all centuries, a significant, almost moral, antithesis. 
+                            Specifically, the elevating use of the word <em>deutsch</em>, which stands for everything that is noble 
+                            in man and a true power for peace, allows us to look into a mirror of a people’s self-confidence
+                            as well as human equilibrium.<a href="#fn8" class="fn"><sup>8</sup></a>
+                            </p>
+                        </blockquote>
+                        <p>Just as the first inscription makes reference to the German people succumbing to a 
+                            foreign power due to being too French, the conflict between <em>deutsch</em> and <em>welsch</em> once raged 
+                            on within Arminius. Though a German who lived among the Romans, Arminius maintained his <em>deutsch</em> 
+                            virtues and never succumbed to <em>welsch</em> temptations unlike his other family members. 
+                            In the eyes of nineteenth century Germans, Arminius was their exemplar.
+                        </p>
+                        <figure class="figure float-right">
+                            <img src="Resources/Images/figure_ethnic_two.jpg" class="figure-img img-fluid rounded">
+                            <figcaption class="figure-caption text-right">
+                                Arminius dressed as a contemporary German knight
+                            </figcaption>
+                        </figure>
+                        <p>It is evident that the <em>welsch</em> connotation runs deeper in German collective memory than just 
+                            the Wars for Liberation. Several German plays throughout the centuries contrasted the figure 
+                            of Arminius to the Francophile trends of early modern Germany. Justus Georg Schottelius’s play 
+                            The Victory of Peace was very much a product of its time; Schottelius wrote it in the midst 
+                            of the Thirty Years’ War around 1642. In the play, the character Arminius laments the fall 
+                            of the German people when confronting Bolderian, a modern German. Krebs summarizes 
+                            Bolderian’s appearance as such: “Neat and groomed (with two plumes to his hat, puffy sleeves, 
+                            knee-high boots, and a sword for ornament), he speaks the language of the day. German it seems, 
+                            is the syntax, but French, mostly, the words.” In contrast, Arminius possesses long hair, 
+                            a bearded face, and a real sword – features Bolderian openly mocks him for.<a href="#fn9" class="fn"><sup>9</sup></a>  
+                            The contrast between the superior <em>deutsch</em> warrior and the <em>welsch</em> pretender is obvious. 
+                            Almost every major production featuring Arminius presented similar comparisons and 
+                            manifestations of these <em>deutsch</em> versus <em>welsch</em> qualities; Grabbe labelled Varus as 
+                            <em>der welsche Oberfeldherr</em> (the welsch commander-in-chief) in his <em>Hermannsschlacht</em> 1835 production, 
+                            and Klopstock painted the Romans in an effeminate light during his Arminius trilogy around 1769.<a href="#fn10" class="fn"><sup>10</sup></a>  
+                            The repeated use of the word <em>welsch</em> to criticize French norms made it clear that Germans 
+                            associated undesirable qualities with French and Roman values. 
+                        </p>
+                    </div>
+                    <div id="section3"> <!--Roman & Welsch-->
+                        <p>In this <em>Kulturkampf</em> (battle for civilization) between <em>deutsch</em> and <em>welsch</em> society, 
+                            Arminius defends Germany against the Roman vipers.  This metaphor has been consistent throughout 
+                            history. The earliest known mention of Roman vipers in a German context first appeared in 1517. 
+                            An artist by the name of Ambrosius Holbien produced a woodcut for the cover of 
+                            Johannes Froben’s 1520 edition of Velleius Paterculus’s <em>Roman History</em>. 
+                            Holbien clades Arminius in sixteenth-century armour confronting Varus on the battlefield 
+                            alongside this quote: “Tandem vipera sibilare desiste – 
+                            ‘finally this viper must desist from hissing.’”<a href="#fn11" class="fn"><sup>11</sup></a>
+                        </p>
+                        <p>The image of a snake harkens back to Roman historians who used the term viper to describe 
+                            Romans and their German sympathizers. In this passage, Florus describes the aftermath of the 
+                            <em>Varusschlacht</em> and how the Germani tortured the remaining legionaries: 
+                            “They put out the eyes of some of them [the legionaries] and cut off the hands of others; 
+                            they sewed up the mouth of one of them after first cutting out his tongue, exclaiming, 
+                            ‘At last, you viper, you have ceased to hiss.’”<a href="#fn12" class="fn"><sup>12</sup></a> 
+                            This label was also applied to Germans aligned with the Roman Empire. 
+                            In Tacitus’s account, Arminius and Maroboduus are exchanging insults before a skirmish. 
+                            Maroboduus was once an enemy of Rome, but he threw his lot in with the Romans against his 
+                            Germanic brothers. Arminius describes his rival as, “the fugitive who, without one stricken field, 
+                            had lain safe in the coverts of the Hercynian Forest.”<a href="#fn13" class="fn"><sup>13</sup></a> Though not an obvious reference to a snake,
+                            A.J. Woodman argues that Tacitus description of Maroboduus’s hiding place is a reference 
+                            to Virgil’s <em>Georgics</em>, in which Virgil describes a skulking snake as 
+                            frustra defensa latebris uipera (the viper vainly protected by its lair).<a href="#fn14" class="fn"><sup>14</sup></a>  
+                            In a similar vein, Paterculus likens Maroboduus to a viper biding his time to strike.<a href="#fn15" class="fn"><sup>15</sup></a>  
+                            Though Woodman cautions that this snake metaphor may be a coincidence in these ancient sources, 
+                            later Germans, who were familiar with these texts, would have known the underlying cultural 
+                            connotations of such loaded terminology, and these Germans used these allusions to identify 
+                            and defame their enemies.<a href="#16" class="fn"><sup>16</sup></a>
+                        </p>
+                    </div>
+                    <div id="section4"> <!--KulturKampf-->
+                        <figure class="figure float-right">
+                            <img src="Resources/Images/figure_ethnic_three.png" class="figure-img img-fluid rounded">
+                            <figcaption class="figure-caption text-right">
+                                Arminius and Martin Luther united
+                            </figcaption>
+                        </figure>
+                        <p>This metaphor remerged in the nineteenth-century in association with the <em>Hermannsdenkmal</em>, 
+                            for German invoked Arminius and Martin Luther against German Roman Catholics. 
+                            Though the word Kulturkampf means a struggle for civilization, the term also describes a 
+                            period from 1872 to 1886 when the new German government, specifically Otto von Bismarck, 
+                            was at odds with the Roman Catholic Church. In 1870, Pope Pius IX declared the dogma of 
+                            papal infallibility binding the loyalty of German Catholics to the Vatican first and 
+                            Germany second.<a href="#fn17" class="fn"><sup>17</sup></a> The May Laws of 1873 marked the German offence against Catholics, 
+                            for these laws gave authority to the state governments to veto Catholic appointments 
+                            to public offices.<a href="#fn18" class="fn"><sup>18</sup></a> These religious tensions were present at the inauguration ceremony 
+                            for the <em>Hermannsdenkmal</em> during the height of the Kulturkampf. The Lippe regional government 
+                            distributed the poem “The <em>Hermannsdenkmal</em> in Teutoburg Forest” by Leopold Böhmer in their 
+                            pamphlets during the ceremony.<a href="#fn19" class="fn"><sup>19</sup></a> The poem not only associates the Roman Empire with the 
+                            Catholic Church, but Böhmer declares a call to arms against the internal Catholic enemies. 
+                            Furthermore, the ceremony ends with this message: “Here we find ourselves together in the 
+                            shadow of ancient oaks and beeches and shake ours hand within a small covenant of brothers 
+                            under the leadership of our heroic Kaiser and his co-conspirators against Rome’s vipers.”<a href="#fn20" class="fn"><sup>20</sup></a>  
+                            This was not an isolated event in Detmold alone. The day before the <em>Hermannsdenkmal</em>’s 
+                            inauguration ceremony, Kladderadatsch, a magazine based in Berlin, 
+                            published an image of Arminius and Martin Luther standing together.<a href="#fn21" class="fn"><sup>21</sup></a>  
+                            Though the word Truefest is on the monument’s shield, this image depicts the word Vici 
+                            (Latin for victory) on Arminius’s shield. Just as Arminius and Martin Luther vanquished 
+                            their Roman foes, the modern German nation would emerge victorious from this Kulturkampf. 
+                            This modern religious conflict bestowed new meaning on the <em>Hermannsdenkmal</em>; 
+                            instead of an external danger, the <em>Hermannsdenkmal</em> now raised his sword against 
+                            the Roman Catholic invaders who have infiltrated Germany.
+                        </p>
+                        <p>This internal enemy soon shifted from German Catholics to German Jews, for fascists used the 
+                            <em>Hermannsdenkmal</em> and the <em>welsch</em> label to defame the Jewish population during the Third Reich. 
+                            The National Socialists campaigned heavily in the Lippe region during the 1933 elections, 
+                            and many speeches compared Hitler to Arminius.<a href="#fn22" class="fn"><sup>22</sup></a>  
+                            Some historians warn against the temptation to overinflate Arminius’s place in 
+                            National Socialism; however, continued productions of Grabbe’s and Kleist’s <em>Hermannsschlacht</em>
+                            plays testify to the staying power of the <em>Varusschlacht</em> during the Nazi Regime.<a ref="#fn23" class="fn"><sup>23</sup></a>  
+                            Similar to how previous regimes politicized the <em>Varusschlacht</em> myth, Arminius’s demise 
+                            at the hands of his clansmen set the historical precedent for the <em>Dolchstosslegende</em>. 
+                            An anti-Semitic conspiracy theory, the <em>Dolchstosslegende</em> claims that Germany would have won WWI 
+                            if the German Jews did not “stab” Germany in the back. Just as Arminius fell to the daggers 
+                            of his fellow clansmen, the nation too lost the war due to treachery. 
+                            The Jews were labelled <em>welsch</em> like all the other enemies of Germany - <em>verwelscht</em> and <em>verjudet</em> 
+                            (ruined by Jews) became synonymous with one another.<a href="#fn24" class="fn"><sup>24</sup></a>  
+                            This may be why books published in the nineteenth and twentieth centuries discussing 
+                            the “Jewish Question” often depicted a snake. 
+                            However, this line of questioning is beyond the scope of this paper.
+                        </p>
+                    </div>
+                    <div id="section5"> <!--Footnotes-->
+                        <hr>
+                        <p id="fn1">[1] Kesting, <cite>Arminius</cite>, 36.</p>
+                        <p id="fn2">[2] Winkler, <cite>Arminius the Liberator</cite>, 69.</p>
+                        <p id="fn3">[3] Ibid, 70.</p>
+                        <p id="fn4">[4] Ibid, 69.</p>
+                        <p id="fn5">[5] Ibid, 72</p>
+                        <p id="fn6">[6] Cited in Pohlsander, <cite>National Monuments and Nationalism in 19th Century Germany</cite>, 157.</p>
+                        <p id="fn7">[7] Ibid, 157.</p>
+                        <p id="fn8">[8] Cited in Winkler, <cite>Arminius the Liberator</cite>, 72</p>
+                        <p id="fn9">[9] Krebs, <cite>A Most Dangerous Book</cite>, 129-130.</p>
+                        <p id="fn10">[10] Winkler, <cite>Arminius the Liberator</cite>, 73; Cornelis van der Haven, “Germanic Myths and Gender Constructions in German and Dutch Theatre Texts 1660-1780,” 
+                        Neophilologos 95, (2011): 250.</p>
+                        <p id="fn11">[11] Smith W. Bradford, “Germanic Pagan Antiquity in Lutheran Historical Thought,” Journal of the Historical Society 4, no. 3, (2003): 360.</p>
+                        <p id="fn12">[12] Florus, <cite>Epitome of Roman History</cite>, 2.30.37.</p>
+                        <p id="fn13">[13] Tacitus, <cite>Annals</cite>, 2.45.</p>
+                        <p id="fn14">[14] A.J. Woodman, <cite>The Cambridge Campion to Tacitus</cite> (New York: Cambridge University Press, 2009), 1; 
+                        Virgil, <cite>Georgics</cite>, 3.544-5.</p>
+                        <p id="fn15">[15] Velleius Paterculus, <cite>Roman History</cite>, 129.3.</p>
+                        <p>[16] This viper reference gives credence to the argument that Siegfried is a reimagination 
+                        of Arminius. Siegfried slays a dragon which is a snake in some sense. 
+                        See Roberta Frank, “Anselm Kiefer, Siegfried and Arminius: Scenes from a Marriage,” 
+                        in <cite>Germania Remembered 1500-2009: Commemorating and Inventing a Germanic Past</cite>, ed. Christina Lee and Nicola McLelland (Tempe, AZ: Arizona Center for Medieval and Renaissance Studies, 2012).</p>
+                        <p id="fn17">[17] Sebastian Knauer, “Das Hermannsdenkmal vor dem Hintergrund des Kulturkampfes,” Rosenland Zeitschrift für lippische Geschichte 5, (2007): 7.</p>
+                        <p id="fn18">[18] Ronald J. Ross, "Enforcing the Kulturkampf in the Bismarckian State and the Limits of Coercion in Imperial Germany," The Journal of Modern History 56, no. 3 (1984): 460. </p>
+                        <p id="fn19">[19] Knauer, “Das Hermannsdenkmal vor dem Hintergrund des Kulturkampfes,” 8.</p>
+                        <p id="fn20">[20] Ibid, 9.</p>
+                        <p id="fn21">[21] Ibid, 9</p>
+                        <p id="fn22">[22] Winkler, <cite>Arminius the Liberator</cite>, 94.</p>
+                        <p id="fn23">[23] Ibid, 83.</p>
+                        <p id="fn24">[24] Ibid, 73.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
