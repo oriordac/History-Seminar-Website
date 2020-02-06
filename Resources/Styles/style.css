@@ -67,8 +67,6 @@ h1, small, a, p {
 /*SpyScroll */
 .spy {
     position: relative;
-    overflow-y: scroll;
-    height: 50%;
 }
 .spy a {
     color: black;
