@@ -18,7 +18,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
     <title>Hermannsdenkmal</title>
 </head>
-<body class="col-md-3 pt-3 list-group list-group-flush bg-dark" id="myScrollSpy">
+<body data-spy="scroll" data-target="#myScrollSpy" data-offset="1" class="spy">
     <!--Navbar-->
     <nav class="navbar navbar-expand-xl navbar-dark bg-dark">
         <div class="container-fluid">
@@ -54,16 +54,18 @@
     <!--ScrollSpy and Content-->
     <div class="container-fluid">
         <div class="row">
-            <div>
+            <div class="col-md-3 pt-3 list-group list-group-flush bg-dark" id="myScrollSpy">
                 <div class="flex-column sticky-top"> <!--Create vertical list-->
                     <a class="list-group-item list-group-item-action list-group-item-dark" href="#section1">Fading Militarism</a>
-                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section2">Local Hero</a>
-                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section3">Footnotes</a>
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section2">Anselm Kiefer</a>
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section3">Local Hero</a>
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section4">Millennium Celebration</a>
+                    <a class="list-group-item list-group-item-action list-group-item-dark" href="#section5">Footnotes</a>
                 </div>
             </div>
             <!--ScrollSpy Content-->
             <div class="col-md-9 pt-3" style="background-color: gainsboro;">
-                <div data-spy="scroll" data-target="#myScrollSpy" data-offset="1" class="spy">
+                <div>
                     <!--Written Content-->
                     <div id="section1"> <!--Fading Militarism-->
                         <p>The monument remained physically the same in the immediate aftermath of the Third Reich, 
@@ -85,6 +87,8 @@
                             Between the absence of President Huess and the National Front,
                             the political sway of the monument had begun to dissipate in both the West and East Germany.
                         </p>
+                    </div>
+                    <div id="section2">
                         <figure class="figure float-right">
                             <img src="Resources/Images/figure_modern_era_one.jpeg" class="figure-img img-fluid rounded">
                             <figcaption class="figure-caption text-right">
@@ -115,7 +119,7 @@
                             shifting western attitudes towards Arminius and this Teutonic tradition tainted in militarism.
                         </p>
                     </div>
-                    <div id="section2"> <!--Local Hero-->
+                    <div id="section3"> <!--Local Hero-->
                         <p>The shift away from German nationalism sentenced the <em>Hermannsdenkmal</em> to solitary confinement 
                             within the forest for decades. Only in recent years have Arminius emerged from the woods into 
                             the public sphere. This change was brought about during the age of consumerism when Arminius 
@@ -161,6 +165,8 @@
                                 Arminius supporting the local team.
                             </figcaption>
                         </figure>
+                    </div>
+                    <div id="section4">
                         <p>As a local military hero, Arminius is a fitting mascot for a sports team. 
                             Though clearly in jest, the tone is eerily similar to the rhetoric employed by the fascists. 
                             Despite the embrace of Arminius as a marketing tool, some local Germans still feel uneasy. 
@@ -191,7 +197,7 @@
                         modern Germans.
                         </p>
                     </div>
-                    <div id="section3"> <!--Footnotes-->
+                    <div id="section5"> <!--Footnotes-->
                         <hr>
                         <p id="fn1">[1] "<a href="www.spiegel.de/spiegel/print/d-44448577.html" target="_blank">Hermannsdenkmal: Durchs Nasenloch gestürzt</a>," <cite>Der Spiegel</cite> Online, August 8, 1950, 10.</p>
                         <p id="fn2">[2] Translation by author.</p>

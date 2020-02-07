@@ -77,11 +77,3 @@ h1, small, a, p {
 .list-group a {
     width: 100%;
 }
-/*Media Query to center figures on small screens ???*/
-@media screen and (max-width: 400px) {
-    figure.figure.float-right {
-      margin-left: auto;
-      margin-right: auto;
-      display: block;
-    }
-}
