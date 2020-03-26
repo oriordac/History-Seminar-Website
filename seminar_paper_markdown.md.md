@@ -5,7 +5,7 @@
 
 ---
 
-In the autumn of AD 9, Arminius, a German chieftain, led an ambush against the Roman commander Publius Quinctilius Varus and the three lower Rhine legions in Teutoburg Forest. 
+In the autumn of AD 9, Arminius, a German chieftain, led an ambush against the Roman commander Publius Quinctilius Varus and the three lower Rhine legions in Teutoburg Forest.
 Depending on the ancient sources, the massacre lasted one to four days with around 15,000 Romans killed or enslaved.[^1] 
 In the aftermath, Emperor Augustus exclaimed this now famous line when news of the massacre reached Rome: 
 
@@ -13,10 +13,6 @@ In the aftermath, Emperor Augustus exclaimed this now famous line when news of t
 
 The battle sent shockwaves across the known world, and the proceeding Germanic Wars would last several years. 
 Centuries later, the Roman Empire would never reclaim their former hegemony in Germania, the territories and clans beyond the Rhine River.
-
-[^1]: Peter S. Wells, *The Battle that Stopped Rome* (New York: W.W. Norton & Co., 2003), 187; the estimations are based on the rough size of three legions according to Cassius Dio, *Roman History Vol 1*, 56.22
-
-[^2]: Suetonius, *Lives of the Twelve Caesars Vol I,* 2.23.
 
 This battle, called the *clades Variana* (Varian disaster) in Latin, but more commonly known among German historians as the *Varusschlacht* (Varus’s battle) or the *Hermannsschlacht* (Hermann’s battle), ranks among the greatest defeats of Rome.
 Though the *Varusschlacht* is a topic onto itself, the man who orchestrated the battle is more fascinating. 
@@ -28,12 +24,6 @@ He betrayed his Roman compatriots and led them to slaughter, for he instructed V
 In response to the *Varusschlacht*, Tiberius and Germanicus, sons of the imperial family, launched several campaigns against the chieftain, but Arminius always evaded capture. 
 Ironically, Arminius lost his life when he became what he most despised, a tyrannical king. 
 His own clansmen murdered him in AD 21 in fear of Arminius’s kingly ambitions straying too far from their Germanic values.[^5]
-
-[^3]: Velleius Paterculus, *Compendium of Roman History* 2.118.2
-
-[^4]: Ibid, 2.118.4.
-
-[^5]: Tacitus, *Annals*, 2.88.
 
 The mythical potential of Arminius is boundless, for a foreigner stood against and annihilated three Roman legions during the peak of the empire’s power. 
 The Romans never outright defeated him because Arminius’s clansmen betrayed the chieftain and killed him before Rome had the chance. 
@@ -48,8 +38,6 @@ As Arminius became a more recognizable figure, different groups co-opted him as 
 For example, Nazi propaganda posters depict Adolf Hitler striking similar poses to popular imagery of Arminius.[^6] 
 To comprehend German reception of Arminius, I will focus on the *Hermannsdenkmal* (Hermann’s Monument) in Detmold to gauge the public’s reception of Arminius. 
 The research will focus on three overarching themes – how Romans and Germans differed on their views of Arminius as the ideal German, how Arminius embodied the East-West divide as a symbol of anti-Roman sentiment, and the rise and fall of nationalistic spirit surrounding the *Hermannsdenkmal* in Germany from the nineteenth century onwards.
-
-[^6]: Martin M. Winkler*, Arminius the Liberator: Myth and Ideology* (New York: Oxford University Press, 2016), 101.
 
 This research differs from other scholarship in two important aspects. 
 The first is on the topic of German virtue. 
@@ -76,6 +64,18 @@ Historians Christopher Krebs and Herbert Benario both note that German humanists
 In essence, the study of collective memory relies on, 
 
 >“…a triad, a three-cornered relationship among highly resonant parts of a memory landscape, individuals, and groups...” who struggle to find meaning in the world around them.[^10]
+
+[^1]: Peter S. Wells, *The Battle that Stopped Rome* (New York: W.W. Norton & Co., 2003), 187; the estimations are based on the rough size of three legions according to Cassius Dio, *Roman History Vol 1*, 56.22
+
+[^2]: Suetonius, *Lives of the Twelve Caesars Vol I,* 2.23.
+
+[^3]: Velleius Paterculus, *Compendium of Roman History* 2.118.2
+
+[^4]: Ibid, 2.118.4.
+
+[^5]: Tacitus, *Annals*, 2.88.
+
+[^6]: Martin M. Winkler*, Arminius the Liberator: Myth and Ideology* (New York: Oxford University Press, 2016), 101.
 
 [^7]: Michael Rothberg, *Multidirectional Memory: Remembering the Holocaust in the Age of Decolonization* (New York: Stanford University Press, 2009), 4.
 
@@ -104,14 +104,6 @@ Usually defined as exhibiting valour on the battlefield, Arminius proves his *vi
 
 Though Arminius opposes Rome, Tacitus portrays him as a worthy adversary and a virtuous warrior.
 
-[^11]: Tacitus, *Annals* 2.88.2
-
-[^12]: Ibid, 1.59.
-
-[^13]: Ibid, 1.64.
-
-[^14]: Ibid, 2.17.
-
 In contrast, other ancient historians treat Arminius with contempt and place the full blame of the *Varusschlacht* squarely on Varus’s shoulders. 
 In his *Epitome of Roman History,* Florus juxtaposes the virtuous Drusus, previous governor of Germania, against the cruel Varus.[^15] 
 Florus even compares Varus to Paullus, the defeated consul from the Battle of Cannae.[^16] 
@@ -121,12 +113,6 @@ Both Cassius Dio and Florus attribute Varus’s strict rule as the catalyst to t
 On the other hand, very few ancient historians give credit to Arminius’s role in facilitating the ambush. 
 These Romans argue that Arminius had no influence, for he and the Germani would never have rebelled under a competent leader like Drusus. 
 In this sense, Arminius is a faceless man who lacks personal motivation to rebel against the Romans – only Varus is to blame.
-
-[^15]: Florus, *Epitome of Roman History*, 2.30.30.
-
-[^16]: Ibid, 2.30.33-35.
-
-[^17]: Cassius Dio, *Roman History Vol 1*, 56.18.3.
 
 Velleius Paterculus, a contemporary of the *Varusschlacht*, is the only ancient historian besides Tacitus who gives some credence to Arminius’s aptitude. Paterculus describes him as, 
 
@@ -139,18 +125,10 @@ Paterculus acknowledges Arminius’s fervor, but the German served as an instrum
 This is a common theme throughout all the accounts discussing the massacre. 
 Even in the arts, the poet Manilius correlates the gods’ disapproval of Rome with the convulsion of the natural order:
 
-[^18]: Velleius Paterculus, *Compendium of Roman History*, 2.118.2.
-
-[^19]: Ibid, 2.118.1.
-
 > …savage Germany carried off General Varus and drenched the fields with the blood of three legions. Then threatening lights were burning all over the firmament, and nature herself waged war by means of these fiery lights,opposed her powers to us, and threatened the end.[^20]
-
-[^20]: Manilius*, Astronomica*, 1.893-903.
 
 Likewise, Cassius Dio recounts several omens that occurred before and after the *Varusschlacht*, such as the temple of Mars being struck by lightning - the heavens were against Rome.[^21] 
 Despite Paterculus recognizing Arminius as an individual, the chieftain serves as a pawn of fate to punish Rome for its own incompetence.
-
-[^21]: Cassius Dio, *Epitome of Roman History*, 56.24.2.
 
 Unlike other ancient historians, Tacitus’s more sympathetic outlook toward Arminius was likely colored by his earlier works on the Germani. 
 Tacitus’s wrote several histories before the *Annals*; one of those books was the *Germania*, an ethnography of the territories beyond the Rhine. 
@@ -160,10 +138,6 @@ In regards to morality, Tacitus discusses at length the marriage and social cust
 Though primarily a veiled criticism towards the social decadence of his fellow Romans, Tacitus concludes that,
 
 >“good morality is more effective there than good laws elsewhere.”[^23]
-
-[^22]: Tacitus, *Germania*, 13.
-
-[^23]: Ibid, 19.
 
 With the ethnography in mind, one should go back and compare Tacitus’s portrayal of Arminius to the characteristics Tacitus admires in the *Germania*. 
 Tacitus’s gleaming appraisal of Arminius in the *Annals* begins to fade, for many of the chieftain’s actions contradict his supposedly German values. 
@@ -175,8 +149,6 @@ The paradox is obvious. Arminius did not defeat Varus in open combat. Instead, h
 Arminius facilitated his greatest achievement, the *Varusschlacht*, with cloaks and daggers rather than with swords and shields.
 Though later Germans claimed that Tacitus presents Arminius in a favorable light, the conception that Tacitus greatly admired Arminius begins to fade.
 
-[^24]: Tacitus, *Annals*, 1.59.
-
 These contradictions appear regularly throughout the *Annals.* 
 According to the *Germania*, fleeing the battlefield is the greatest shame possible for a German warrior; however, Arminius evades capture for twelve years by fleeing the battlefield, a shameful act.[^25] 
 Even his marriage with Thusnelda flies in the face of German tradition. 
@@ -184,10 +156,6 @@ Though Tacitus makes clear their devotion to one another, she was originally bet
 The only remaining admirable traits that Tacitus praises, Arminius’s military strategies and his *virtus*, are not German traits. 
 Rather, Arminius’s time in the Roman legion fostered his fighting spirit and tactical mind. 
 The once rosy depiction of Tacitus’s Arminius continues to falter under scrutiny.
-
-[^25]: Tacitus, *Germania*, 6.
-
-[^26]: Ibid, 1.58.
 
 Tacitus’s subsequent account of Germanicus stumbling upon the remnants of the fallen legions in Teutoburg Forest illustrates the monstrosity of Arminius.
 Tacitus claims that, 
@@ -202,12 +170,6 @@ Tacitus occasionally does praise the chieftain.
 On the other hand, Tacitus’s portrayal of Arminius runs counter to Tacitus’s own depiction of a virtuous German in his *Germania*. 
 In the end, Arminius is both the turbulator and liberator of Germany – an ambitious man with many personal flaws.[^29]
 
-[^27]: Ibid 1.61.
-
-[^28]: A.J. Woodman, *The Cambridge Campion to Tacitus* (New York: Cambridge University Press, 2009), 5.
-
-[^29]: Tacitus, *Annals* 1.55.2 ; Ibid 2.88.2
-
 From the ancient sources alone, it is difficult to square away the admiration for Arminius by later Germans and the chieftain’s disregard for Germanic traditions. 
 However, The German humanists of the sixteenth century looked past these flaws and focused solely on the good. 
 Consider Ulrich von Hutten’s *Arminius* dialogues, a continuation of Lucian’s *Dialogues of the Dead* where Minos must decide who was the greatest general to ever live – Alexander, Scipio, or Hannibal. 
@@ -217,20 +179,14 @@ Mercury verifies Tacitus’s assertions by claiming Tacitus to be the most trust
 In Hutten’s iteration, Tacitus sincerely admired Arminius. 
 This is essential because by claiming Tacitus speaks the truth, Hutten dismisses all the other historians who are critical of Arminius.
 
-[^30]: Richard E. Walker, *Ulrich von Hutten’s Arminius: An English Translation with Analysis and Commentary* (Bern: Peter Lang, 2008), 27.
-
 When the other generals accused Arminius of betraying his Roman compatriots and succumbing to tyrannical tendencies, Arminius defends himself. 
 On the charge of treachery, Arminius argues,
 
 >But in my mind there was never a time when I felt subservient to anyone. The thought of being free was always with me, and my mind was devoted to this one ambition, to be prepared, should the occasion present itself, to free my fellow Germans who were bound by the yoke of servitude.[^31]
 
-[^31]: Ibid, 36.
-
 On the accusation of tyranny, Arminius appeals to the *logos* of the audience saying,
 
 > We all know from human experience that the person possessing the greatest virtues will also be the one to engender the most envy and jealousy... The higher one has been exalted, the greater the jealousy he attracts. He who attends to the highest matters of state must necessarily have more influence and power over the people he rules.[^32]
-
-[^32]: Ibid, 38.
 
 Because the Hutten’s dialogues are set in the court of the underworld, everything that Arminius and Tacitus said must be true, so Arminius never truly served the Romans nor did he ever harbor kingly ambition. 
 In these two rebuttals, Hutten absolves Arminius of his two most glaring character flaws.
@@ -242,6 +198,50 @@ Germans turned this once nuanced character into a caricature.
 With each simplification, the story of Arminius and the *Varusschlacht* resembled myth more than history. 
 Eventually, Arminius was nothing more than the exemplar of German virtue and the steadfast opponent of all things Roman - Italians, the French, or Roman Catholics, the chieftain did not discriminate.
 
+[^11]: Tacitus, *Annals* 2.88.2
+
+[^12]: Ibid, 1.59.
+
+[^13]: Ibid, 1.64.
+
+[^14]: Ibid, 2.17.
+
+[^15]: Florus, *Epitome of Roman History*, 2.30.30.
+
+[^16]: Ibid, 2.30.33-35.
+
+[^17]: Cassius Dio, *Roman History Vol 1*, 56.18.3.
+
+[^18]: Velleius Paterculus, *Compendium of Roman History*, 2.118.2.
+
+[^19]: Ibid, 2.118.1.
+
+[^20]: Manilius*, Astronomica*, 1.893-903.
+
+[^21]: Cassius Dio, *Epitome of Roman History*, 56.24.2.
+
+[^22]: Tacitus, *Germania*, 13.
+
+[^23]: Ibid, 19.
+
+[^24]: Tacitus, *Annals*, 1.59.
+
+[^25]: Tacitus, *Germania*, 6.
+
+[^26]: Ibid, 1.58.
+
+[^27]: Ibid 1.61.
+
+[^28]: A.J. Woodman, *The Cambridge Campion to Tacitus* (New York: Cambridge University Press, 2009), 5.
+
+[^29]: Tacitus, *Annals* 1.55.2 ; Ibid 2.88.2
+
+[^30]: Richard E. Walker, *Ulrich von Hutten’s Arminius: An English Translation with Analysis and Commentary* (Bern: Peter Lang, 2008), 27.
+
+[^31]: Ibid, 36.
+
+[^32]: Ibid, 38.
+
 The Ethnic Connotations and History of the *Hermannsdenkmal*
 ============================================================
 
@@ -252,10 +252,6 @@ The soldier “boxed” Bandel’s ears for being an insubordinate child.
 Years later in 1872, *Gartenlaube*, a popular German magazine of the late nineteenth century, published an article titled “A Creative Slap in the Face” inspired by this adolescent experience.[^33] 
 Even if this account was nothing more than a fable, Bandel already had sketches of the *Hermannsdenkmal* by his university years.[^34] 
 Something instrumental must have happened during his formative years to spur him to spend the majority of his life constructing the *Hermannsdenkmal*.
-
-[^33]: *Gartenlaube* 20 (1872): 441-44, cited in Kirsten Belgum, “Displaying the Nation: A View of Nineteenth-Century Monuments through a Popular Magazine,” *Central European History* 26, no. 4 (1993): 464.
-
-[^34]: Hans A. Pohlsander, *National Monuments and Nationalism in 19th Century Germany* (Bern: Peter Lang, 2008) 154.
 
 The inspiration for the *Hermannsdenkmal* originated from the Wars for Liberation when several European territories united under a single banner to banish Napoleon from central Europe. 
 In particular, the Battle of Nations, also known as the Battle of Leipzig or the *Völkerschlacht,* inspired Bandel and many other German nationalists for years to come.
@@ -269,12 +265,6 @@ Not only does this drawing give credence to the importance of the *Varusschlacht
 Germania’s former captors clutch Roman standards in their cold, dead hands. 
 Due to this parallel between the *Völkerschlacht* and the *Varusschlacht,* it is clear that the Wars for Liberation ignited a nationalistic fervor in Ernst von Bandel to dedicate thirty-seven years of his life to honor this second *Varusschlacht*.
 
-[^35]: David G. Chandler, *The Campaigns of Napoleon* (New York: The MacMillan Company, 1966), 873.
-
-[^36]: Winkler, *Arminius the Liberator*, 67.
-
-[^37]: Fansa von Mamoun, *Varusschlacht und Germanenmythos* (Oldenburg, Isensee, 2001), 48 Fig 5.
-
 The years leading up to the opening ceremony of the *Hermannsdenkmal* in 1875 require a brief contextualization since renewed interest in Arminius accompanied a national awakening. 
 The cornerstone celebration for the monument occurred on September 8, 1841 followed by a recital of Mortiz Arndt’s patriotic song “What is the German’s Fatherland?”[^38]
 Arndt was another German patriot inspired by the Battle of Nations; the *Völkerschlachtdenkmal* in Leipzig even pays homage to Arndt’s earlier designs for such a monument. 
@@ -284,22 +274,12 @@ In 1868, soon-to-be Kaiser Wilhelm I’s visit to Bandel’s workshop sparked re
 Though a large sum of money, that donation alone would not have covered the 90,000 talers cost. 
 Outside of other notable figures such as King Ludwig I of Bavaria and Prince Leopold of Lippe, public donations raised the remaining funds.
 
-[^38]: Hermann Kesting, *Arminius*, trans. Elise Schnasse (Detmold: Hermann Bösmann, 1982), 30.
-
-[^39]: Ibid, 35.
-
-[^40]: Ibid, 36.
-
 This begs the question of how private citizens from across the newly formed German nation became aware of the monument’s construction and were willing to fund the outstanding deficit. 
 After all, even after the monument’s completion, few tourists journeyed to the site; only about 1,500 to 1,800 annual visitors trekked into the forest to see the *Hermannsdenkmal* between 1875 and 1880.
 However, this number skyrocketed to 20,500 in 1895 and 41,000 in 1909 thanks to the installation of a train station in Detmold.[^41] 
 These later visitors likely participated in fundraisers for the monument, but they were unable to visit this otherwise obscure monument. 
 Historian Kirsten Belgum lays out a compelling argument that even though many Germans never saw these structures in the flesh, popular magazines such as *Gartenlaube* exposed the budding German nation to nationalistic monuments such as the *Niederwalddenkmal* and the *Hermannsdenkmal*. 
 As Belgum points out, *Gartenlaube* enjoyed the largest circulation of any German-language publication at the time with 310,000 subscriptions by 1871.[^42]
-
-[^41]: Belgum, “Displaying the Nation: A View of Nineteenth-Century Monuments through a Popular Magazine,” 458.
-
-[^42]: Ibid, 460.
 
 Other advocates of the *Hermannsdenkmal* tapped into this budding national interest. 
 Hans Ferdinand Massman, fast friends with Bandel, lobbied on the monument’s behalf. 
@@ -308,14 +288,6 @@ Bandel also appealed to the top students from 300 grammar schools to contribute 
 This would only have been successful if these schools instilled into children the mythological and nationalistic connotations surrounding Arminius. 
 Eventually, the monument was inaugurated on August 16, 1875 in the presence of the Kaiser and around 20,000 to 30,000 attendees.[^45]
 Naturally, *Gartenlaube* printed a featurette on the festivities.[^46]
-
-[^43]: Winkler, *Arminius the Liberator*, 67.
-
-[^44]: Kesting, *Arminius*, 36.
-
-[^45]: Frank Huismann, *Das Hermannsdenkmal - Daten, Fakten, Hintergründe* (Münster: Scriptorium, 2008), 73.
-
-[^46]: Gartenlaube 23 (1875): 640-41, cited in Belgum, “Displaying the Nation: A View of Nineteenth-Century Monuments through a Popular Magazine,” 472.
 
 Though inspired by Arminius, the *Hermannsdenkmal* was very much a product of its time. 
 The statue towers above the forest landscape at 24.82 m; when taking the base into account, the whole monument is 53.44 m.[^47] 
@@ -334,21 +306,11 @@ As Dutch novelist noted,
 Carved onto his shield is the word *Truefest* meaning “faithful-firm.”[^50] 
 Lastly, Arminius’s left foot stands atop a Roman legionary eagle and fasces, symbols of Rome’s governmental and military might.
 
-[^47]: Kesting, *Arminius*, 36.
-
-[^48]: Winkler, *Arminius the Liberator*, 69.
-
-[^49]: Ibid, 70.
-
-[^50]: Ibid, 69.
-
 One would expect the statue to face southward towards Rome, but surprisingly, Arminius and his sword point westward towards France. 
 The descriptions below in the niches of the monument’s base solidify France as the modern embodiment of the Roman Empire. 
 The first inscription reads as follows:
 
 >Only because the German people had become too French and powerless through disunity could Napoleon Bonaparte Emperor of the French subjugate Germany with the aid of Germans; then finally in 1813 all German tribes gathered around the sword raised high by Prussia, from disgrace victoriously fighting for their home country’s freedom.[^51]
-
-[^51]: Winkler, *Arminius the Liberator*, 72.
 
 Napoleon was only able to conquer Germany with the assistance of other Germans which is similar to how Rome ruled Germania with the assistance of other Germanic clans such as the Cherusci. 
 Though it was easy to portray the Wars for Liberation as the tale of Europe against France, the ethnicity of the troops led by Napoleon were not as clear cut. 
@@ -359,22 +321,16 @@ The second inscription honours Kaiser Wilhelm I and ties his legacy to Arminius:
 
 >He who united long divided tribes by a strong hand, he who victoriously overcame ‘Welsh’ might and malice, he who takes long-lost sons home to the German empire, he is equal to Arminius the rescuer.”[^52]
 
-[^52]: Cited in Pohlsander, *National Monuments and Nationalism in 19th Century Germany*, 157.
-
 Directly above this passage is a metallic relief of the Kaiser crafted from bronze originating from French cannons captured during the Franco-Prussian War.[^53] 
 This was a common tradition at this point, for cannons adorned the column of the *Siegessäule* in Berlin. 
 On the other hand, the context of the *Varusschlacht* breathes ancient meaning into this new tradition; just as Arminius stole three Roman standards from the fallen legions, the Kaiser pillaged and robbed France of its military might. 
 In this sense, the passage draws an obvious parallel between the Kaiser and Arminius.
-
-[^53]: Ibid, 157.
 
 However, what truly makes this second inscription provoking is the usage of the term *welsch* rather than *französisch*, the standard adjective for French.
 *Welsch* is synonymous with the adjective *römisch* (Roman), but *welsch* carries a more negative connotation and was often used to describe foreigners.
 The famous German historian Theodor Massmann wrote this in regards to the words *deutsch* and *welsch:*
 
 >The two adjectives *deutsch* and *welsch*, about which a biography of their own could be written, have meant, through all centuries, a significant, almost moral, antithesis. Specifically, the elevating use of the word *deutsch*, which stands for everything that is noble in man and a true power for peace, allows us to look into a mirror of a people’s self-confidence as well as human equilibrium.[^54]
-
-[^54]: Cited in Winkler*, Arminius the Liberator*, 72.
 
 Just as the first inscription makes reference to the German people succumbing to a foreign power due to being too French, the conflict between *deutsch* and *welsch* once raged on within Arminius. 
 Though a German who lived among the Romans, Arminius maintained his *deutsch* virtues and never succumbed to *welsch* temptations unlike his other family members. 
@@ -393,10 +349,6 @@ The contrast between the superior *deutsch* warrior and the *welsch* pretender i
 Almost every major production featuring Arminius presented similar comparisons and manifestations of these *deutsch* versus *welsch* qualities; Grabbe labelled Varus as *der welsche Oberfeldherr* (the *welsch* commander-in-chief) in his *Hermannsschlacht* 1835 production, and Klopstock painted the Romans in an effeminate light during his Arminius trilogy around 1769.[^56] 
 The repeated use of the word *welsch* to criticize French norms made it clear that Germans associated undesirable qualities with French and Roman values.
 
-[^55]: Krebs, *A Most Dangerous Book*, 129-130.
-
-[^56]: Winkler, *Arminius the Liberator*, 73; Cornelis van der Haven, “Germanic Myths and Gender Constructions in German and Dutch Theatre Texts 1660-1780,” *Neophilologos* 95, (2011): 250.
-
 In this *Kulturkampf* (battle for civilization) between *deutsch* and *welsch* society, Arminius defends Germany against the Roman vipers. 
 This metaphor has been consistent throughout history. 
 The earliest known mention of Roman vipers in a German context first appeared in 1517. 
@@ -404,8 +356,6 @@ An artist by the name of Ambrosius Holbien produced a woodcut for the cover of J
 Holbien clades Arminius in sixteenth-century armour confronting Varus on the battlefield alongside this quote: 
 
 >“*Tandem vipera sibilare desiste* – ‘finally this viper must desist from hissing.’”[^57]
-
-[^57]: Smith W. Bradford, “Germanic Pagan Antiquity in Lutheran Historical Thought,” *Journal of the Historical Society* 4, no. 3, (2003): 360.
 
 The image of a snake harkens back to Roman historians who used the term viper to describe Romans and their German sympathizers. 
 In this passage, Florus describes the aftermath of the *Varusschlacht* and how the Germani tortured the remaining legionaries: 
@@ -422,18 +372,6 @@ Arminius describes his rival as,
 Though not an obvious reference to a snake, A.J. Woodman argues that Tacitus description of Maroboduus’s hiding place is a reference to Virgil’s *Georgics,* in which Virgil describes a skulking snake as *frustra defensa latebris uipera* (the viper vainly protected by its lair).[^60]
 In a similar vein, Paterculus likens Maroboduus to a viper biding his time to strike.[^61] 
 Though Woodman cautions that this snake metaphor may be a coincidence in these ancient sources, later Germans, who were familiar with these texts, would have known the underlying cultural connotations of such loaded terminology, and Germans used these allusions to identify and defame their enemies. [^62]
-
-[^58]: Florus, *Epitome of Roman History*, 2.30.37.
-
-[^59]: Tacitus, *Annals*, 2.45.
-
-[^60]: A.J. Woodman, *The Cambridge Campion to Tacitus* (New York: Cambridge University Press, 2009), 1; Virgil, *Georgics*, 3.544-5.
-
-[^61]: Velleius Paterculus, *Roman History*, 129.3.
-
-[^62]: This viper reference gives credence to the argument that Siegfried is a reimagination of Arminius. 
-Siegfried slays a dragon which is a snake in some sense. 
-See Roberta Frank, “Anselm Kiefer, Siegfried and Arminius: Scenes from a Marriage,” in *Germania Remembered 1500-2009: Commemorating and Inventing a Germanic Past*, ed. Christina Lee and Nicola McLelland (Tempe, AZ: Arizona Center for Medieval and Renaissance Studies, 2012).
 
 This metaphor remerged in the nineteenth-century in association with the *Hermannsdenkmal,* for German invoked Arminius and Martin Luther against German Roman Catholics.
 Though the word *Kulturkampf* means a struggle for civilization, the term also describes a period from 1872 to 1886 when the new German government, specifically Otto von Bismarck, was at odds with the Roman Catholic Church. 
@@ -452,16 +390,6 @@ Though the word *Truefest* is on the monument’s shield, this image depicts the
 Just as Arminius and Martin Luther vanquished their Roman foes, the modern German nation would emerge victorious from this *Kulturkampf*. 
 This modern religious conflict bestowed new meaning on the *Hermannsdenkmal*; instead of an external danger, the *Hermannsdenkmal* now raised his sword against the Roman Catholic invaders who have infiltrated Germany.
 
-[^63]: Sebastian Knauer, “Das Hermannsdenkmal vor dem Hintergrund des Kulturkampfes,” *Rosenland Zeitschrift für lippische Geschichte* 5, (2007): 7.
-
-[^64]: Ronald J. Ross, "Enforcing the Kulturkampf in the Bismarckian State and the Limits of Coercion in Imperial Germany," *The Journal of Modern History* 56, no. 3 (1984): 460.
-
-[^65]: Knauer, “Das Hermannsdenkmal vor dem Hintergrund des Kulturkampfes,” 8.
-
-[^66]: Ibid, 9.
-
-[^67]: Ibid, 9.
-
 This internal enemy soon shifted from German Catholics to German Jews, for fascists used the *Hermannsdenkmal* and the *welsch* label to defame the Jewish population during the Third Reich. 
 The National Socialists campaigned heavily in the Lippe region during the 1933 elections, and many speeches compared Hitler to Arminius.[^68] 
 Some historians warn against the temptation to overinflate Arminius’s place in National Socialism; however, continued productions of Grabbe’s and Kleist’s *Hermannsschlacht* plays testify to the staying power of the *Varusschlacht* during the Nazi Regime.[^69] 
@@ -471,6 +399,78 @@ Just as Arminius fell to the daggers of his fellow clansmen, the nation too lost
 The Jews were labelled *welsch* like all the other enemies of Germany - *verwelscht* and *verjudet* (ruined by Jews) became synonymous with one another.[^71] 
 This may be why books published in the nineteenth and twentieth centuries discussing the “Jewish Question” often depicted a snake. 
 However, this line of questioning is beyond the scope of this paper.
+
+[^33]: *Gartenlaube* 20 (1872): 441-44, cited in Kirsten Belgum, “Displaying the Nation: A View of Nineteenth-Century Monuments through a Popular Magazine,” *Central European History* 26, no. 4 (1993): 464.
+
+[^34]: Hans A. Pohlsander, *National Monuments and Nationalism in 19th Century Germany* (Bern: Peter Lang, 2008) 154.
+
+[^35]: David G. Chandler, *The Campaigns of Napoleon* (New York: The MacMillan Company, 1966), 873.
+
+[^36]: Winkler, *Arminius the Liberator*, 67.
+
+[^37]: Fansa von Mamoun, *Varusschlacht und Germanenmythos* (Oldenburg, Isensee, 2001), 48 Fig 5.
+
+[^38]: Hermann Kesting, *Arminius*, trans. Elise Schnasse (Detmold: Hermann Bösmann, 1982), 30.
+
+[^39]: Ibid, 35.
+
+[^40]: Ibid, 36.
+
+[^41]: Belgum, “Displaying the Nation: A View of Nineteenth-Century Monuments through a Popular Magazine,” 458.
+
+[^42]: Ibid, 460.
+
+[^43]: Winkler, *Arminius the Liberator*, 67.
+
+[^44]: Kesting, *Arminius*, 36.
+
+[^45]: Frank Huismann, *Das Hermannsdenkmal - Daten, Fakten, Hintergründe* (Münster: Scriptorium, 2008), 73.
+
+[^46]: Gartenlaube 23 (1875): 640-41, cited in Belgum, “Displaying the Nation: A View of Nineteenth-Century Monuments through a Popular Magazine,” 472.
+
+[^47]: Kesting, *Arminius*, 36.
+
+[^48]: Winkler, *Arminius the Liberator*, 69.
+
+[^49]: Ibid, 70.
+
+[^50]: Ibid, 69.
+
+[^51]: Winkler, *Arminius the Liberator*, 72.
+
+[^52]: Cited in Pohlsander, *National Monuments and Nationalism in 19th Century Germany*, 157.
+
+[^53]: Ibid, 157.
+
+[^54]: Cited in Winkler*, Arminius the Liberator*, 72.
+
+[^55]: Krebs, *A Most Dangerous Book*, 129-130.
+
+[^56]: Winkler, *Arminius the Liberator*, 73; Cornelis van der Haven, “Germanic Myths and Gender Constructions in German and Dutch Theatre Texts 1660-1780,” *Neophilologos* 95, (2011): 250.
+
+[^57]: Smith W. Bradford, “Germanic Pagan Antiquity in Lutheran Historical Thought,” *Journal of the Historical Society* 4, no. 3, (2003): 360.
+
+[^58]: Florus, *Epitome of Roman History*, 2.30.37.
+
+[^59]: Tacitus, *Annals*, 2.45.
+
+[^60]: A.J. Woodman, *The Cambridge Campion to Tacitus* (New York: Cambridge University Press, 2009), 1; Virgil, *Georgics*, 3.544-5.
+
+[^61]: Velleius Paterculus, *Roman History*, 129.3.
+
+[^62]: This viper reference gives credence to the argument that Siegfried is a reimagination of Arminius. 
+Siegfried slays a dragon which is a snake in some sense. 
+See Roberta Frank, “Anselm Kiefer, Siegfried and Arminius: Scenes from a Marriage,” in *Germania Remembered 1500-2009: Commemorating and Inventing a Germanic Past*, ed. Christina Lee and Nicola McLelland (Tempe, AZ: Arizona Center for Medieval and Renaissance Studies, 2012).
+
+[^63]: Sebastian Knauer, “Das Hermannsdenkmal vor dem Hintergrund des Kulturkampfes,” *Rosenland Zeitschrift für lippische Geschichte* 5, (2007): 7.
+
+[^64]: Ronald J. Ross, "Enforcing the Kulturkampf in the Bismarckian State and the Limits of Coercion in Imperial Germany," *The Journal of Modern History* 56, no. 3 (1984): 460.
+
+[^65]: Knauer, “Das Hermannsdenkmal vor dem Hintergrund des Kulturkampfes,” 8.
+
+[^66]: Ibid, 9.
+
+[^67]: Ibid, 9.
 
 [^68]: Winkler, *Arminius the Liberator*, 94.
 
@@ -498,12 +498,6 @@ The National Front, which represented the eastern political parties of the Germa
 In contrast, 152 city flags from the FDR were available if need be.[^74] 
 Between the absence of President Huess and the National Front, the political sway of the monument had begun to dissipate in both the West and East Germany.
 
-[^72]: “Hermannsdenkmal: Durchs Nasenloch gestürzt,” *Der Spiegel* Online, August 8, 1950, [www.spiegel.de/spiegel/print/d-44448577.html](http://www.spiegel.de/spiegel/print/d-44448577.html)
-
-[^73]: Translation by author.
-
-[^74]: Ibid, 11.
-
 The vestiges of the *Varusschlacht* pathos now resided solely in the cultural spheres, and many artists attempted to confront this past through their work. 
 In 1985, art historian Wieland Schmied stated that, 
 
@@ -522,12 +516,6 @@ Amongst the branches of these painted trees are names of German authors, politic
 These historical figures set Arminius on a trajectory to become a fascist icon. 
 By acknowledging this dangerous lineage, Kiefer’s artistic works embody shifting western attitudes towards Arminius and this Teutonic tradition tainted in militarism.
 
-[^75]: Martin Brady, “Anselm Kiefer, *Die Hermannsschlacht*, and the Battle of Modernism,” in *Germania Remembered*, ed. Lee and McLelland, 290-1.
-
-[^76]: Mathew Rampley, "In Search of Cultural History: Anselm Kiefer and the Ambivalence of Modernism," *Oxford Art Journal* 23, no. 1 (2000): 84.
-
-[^77]: Tacitus, *Germania*, 9.
-
 The shift away from German nationalism sentenced the *Hermannsdenkmal* to solitary confinement within the forest for decades. 
 Only in recent years have Arminius emerged from the woods into the public sphere. 
 This change was brought about during the age of consumerism when Arminius became the mascot for the Lippe region. 
@@ -537,26 +525,16 @@ Tourist numbers for the *Hermannsdenkmal* have always been decent, but now, half
 The discovery of the true battlefield of the *Varruschlacht* at Kalkriese in 1987 certainly sparked renewed interest, but that alone does not explain the staying power of Arminius in recent memory. 
 This begs the question of how Arminius re-emerged in the public imagination and if he retains any of his anti-Roman or anti-French connotations.
 
-[^78]: Magnus Brechtken, “Leaving the Forest: ‘Hermann the German’ as Cultural Representation from Nationalism to Post-Modern Consumerism,” in *Germania Remembered*, ed. Lee and McLelland, 333.
-
-[^79]: Landesverband Lippe, “Infomaterial,” Das Hermannsdenkmal, accessed on March 19, 2019, [www.hermannsdenkmal.de/hermann-erleben/infomaterial](http://www.hermannsdenkmal.de/hermann-erleben/infomaterial).
-
 Arminia *Bielefeld*, the local soccer organization, was the driving force that sustained Arminius’s positive image. 
 Advertisements for Arminia often depict the *Hermannsdenkmal* wearing the club’s jersey. 
 This was taken quite literally in 1999 when the Arminius statue was dressed in the largest soccer jersey ever created for two weeks.[^80] 
 Featuring the number nine in reference to the year of the *Varusschlacht*, this commercial stunt cemented Arminius’s association with soccer. 
 This may be why the *Lippisches Landesmuseum* commissioned a recreation of Arminius’s left foot as part of their advertisement campaign for their 2009 “Myth: exhibition in Detmold.[^81]
 
-[^80]: Brechtken, “Leaving the Forest: ‘Hermann the German’ as Cultural Representation from Nationalism to Post-Modern Consumerism,” in *Germania Remembered*, ed. Lee and McLelland, 329.
-
-[^81]: Ibid, 330.
-
 Arminia fully embraces the figure of Arminius and all that he stands for. 
 On their website, the organization likens the *Varusschlahct* to a soccer match where Rome is the visiting team while the Germani defend their home turf:
 
 >Team captain Arminius had home advantage. There was no umpire, cheating was permitted, and bad weather also favoured the home team when they put an end to the invaders’ attempts to conquer the boggy, marshy lands between the Rhine and Elbe River.[^82]
-
-[^82]: Cited in Andreas Musolff, “The Global Westphalian: *Arminius/Hermann* as a Post-National Identification Figure,” in *Germania Remembered*, ed. Lee and McLelland, 343.
 
 As a local military hero, Arminius is a fitting mascot for a sports team. 
 Though clearly in jest, the tone is eerily similar to the rhetoric employed by the fascists. 
@@ -581,10 +559,31 @@ These reenactors would rather be “slaughtered” as Romans than be associated 
 The commercialization of Arminius should have redeemed the chieftain in the eyes of the public, for Arminius’s mascot status should have normalized and weakened his past ties to nationalism.
 However, this is still not the case, for the *Varusschlacht* myth seems to still hold sway over modern Germans.
 
+[^72]: “Hermannsdenkmal: Durchs Nasenloch gestürzt,” *Der Spiegel* Online, August 8, 1950, [www.spiegel.de/spiegel/print/d-44448577.html](http://www.spiegel.de/spiegel/print/d-44448577.html)
+
+[^73]: Translation by author.
+
+[^74]: Ibid, 11.
+
+[^75]: Martin Brady, “Anselm Kiefer, *Die Hermannsschlacht*, and the Battle of Modernism,” in *Germania Remembered*, ed. Lee and McLelland, 290-1.
+
+[^76]: Mathew Rampley, "In Search of Cultural History: Anselm Kiefer and the Ambivalence of Modernism," *Oxford Art Journal* 23, no. 1 (2000): 84.
+
+[^77]: Tacitus, *Germania*, 9.
+
+[^78]: Magnus Brechtken, “Leaving the Forest: ‘Hermann the German’ as Cultural Representation from Nationalism to Post-Modern Consumerism,” in *Germania Remembered*, ed. Lee and McLelland, 333.
+
+[^79]: Landesverband Lippe, “Infomaterial,” Das Hermannsdenkmal, accessed on March 19, 2019, [www.hermannsdenkmal.de/hermann-erleben/infomaterial](http://www.hermannsdenkmal.de/hermann-erleben/infomaterial).
+
+[^80]: Brechtken, “Leaving the Forest: ‘Hermann the German’ as Cultural Representation from Nationalism to Post-Modern Consumerism,” in *Germania Remembered*, ed. Lee and McLelland, 329.
+
+[^81]: Ibid, 330.
+
+[^82]: Cited in Andreas Musolff, “The Global Westphalian: *Arminius/Hermann* as a Post-National Identification Figure,” in *Germania Remembered*, ed. Lee and McLelland, 343.
+
 [^83]: David Crossland, “Battle of Teutoburg Forest: Germany Recalls Myth that Created the Nation,” *Der Spiegel* Online, August 28, 2009, [www.spiegel.de/international/germany battle-of-the-teutoburg-forest-germany-recalls-myth-that-created-the-nation-a-644913.html](http://www.spiegel.de/internationalgermany/battle-of-the-teutoburg-forest-germany-recalls-myth-that-created-the-nation-a-644913.html)
 
 [^84]: Ibid.
-
 Conclusion
 ==========
 
@@ -601,8 +600,6 @@ This desire to contrasts *deutsch* and *welsch* characteristics explains the con
 The *Hermannsdenkmal* also embodied this clash between *deutsch* and *welsch*. 
 Not only do the inscriptions speak to the failures of the *welsche* French against the superior *deutsch* people, later Germans used the monument and the *Varusschlacht* myth to defame German Catholic and German Jews.
 
-[^85]: Michael K. Prince, *War and German Memory: Excavating the Significance of the Second World War in German Cultural Consciousness* (Lanham: Lexington Books, 2010), 41.
-
 This leads us to the final point Michael Prince considers – what do the German people wish this monument will represent in the future. 
 Even in the modern age, the *Hermannsdenkmal*’s place in German society is still vague. 
 Despite the *Hermannsdenkmal* being a popular tourist destination, the ethnic connotations associated with Arminius and the *Varusschlacht* persist as evident by the Kalkriese reenactment. 
@@ -617,6 +614,8 @@ Anselm Kiefer set the trend with his Hermannsschlacht art series post WWII, but 
 Lastly, the inclusion of Asterix the Gaul may present another avenue for the future of Arminius.
 Throughout history, Germans have placed Arminius into a class of his own away from the other barbarian leaders. 
 Today, there may be a home for Arminius amongst the other ancient European chieftains.
+
+[^85]: Michael K. Prince, *War and German Memory: Excavating the Significance of the Second World War in German Cultural Consciousness* (Lanham: Lexington Books, 2010), 41.
 
 [^86]: Brechtken, “Leaving the Forest: ‘Hermann the German’ as Cultural Representation from Nationalism to Post-Modern Consumerism,” 334.
 
