@@ -1,7 +1,7 @@
 # History-Seminar-Website
 Converting a history thesis into a website
 ---
-Welcome | Wilkommen
+Welcome | Willkommen
 
 Please visit this [website](https://oriordac.github.io/History-Seminar-Website/index.html) hosted on Github Pages. 
 
